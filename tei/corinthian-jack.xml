@@ -1,4 +1,3 @@
-<!-- vim: set ft=xml : -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
   <fileDesc>
@@ -2354,7 +2353,7 @@ phemous epithets at his command to express his rage
 and disgust. Jack was horrified at the old man's out-
 pourings. He had heard vague hints of Simon Hals-
 tead's strange experiences, but he never imagined his
-step-father could be so debased.</p>
+<choice><reg>stepfather</reg><orig>step-father</orig></choice> could be so debased.</p>
 
 <p><said>I'd better leave you, sir, to talk to yourself. I
 don't see I've anything to reply to,</said> said he, springing
@@ -8532,7 +8531,7 @@ at once. This is my business, not yours.</said></p>
 and glared savagely at Ralstone, who flushed and
 panting with the severe struggle had his eyes fixed on
 the girl. She had raised her veil and her face was
-more enchanting and witchlike than ever he had seen
+more enchanting and <choice><reg>witch-like</reg><orig>witchlike</orig></choice> than ever he had seen<!-- following later occurrence -->
 it.</p>
 
 <p><said>You are faithfully served,</said> said he between great
