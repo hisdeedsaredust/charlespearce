@@ -1,4 +1,3 @@
-<!-- vim: set ft=xml : -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
   <fileDesc>
@@ -25,7 +24,7 @@
 <body>
 <div n="1" type="chapter">
 <pb n="9"/>
-<head type="num">Chapter I</head>
+<head type="num">Chapter <num type="cardinal" value="1">I</num></head>
 <head type="main">The Rajah's Dinner-Party</head>
 
 <p>It is the spring of 1851. In the Delhi plains the
@@ -107,9 +106,9 @@ a wild love-song to the monotonous scraping, the
 twanging and the tum-tumming of the squatting
 musicians, was more than one white-headed sep-
 tuagenarian. It would not be far from the truth
-to say that to these old gentlemen--most of whom
+to say that to these old gentlemen—most of whom
 had dipped deeply into the Rajah's excellent wine
---the dancing of the Nautch girls was more attrac-
+—the dancing of the Nautch girls was more attrac-
 tive than it was to the young ones. Not a few of
 the latter looked a little bored.</p>
 
@@ -120,10 +119,10 @@ bad form if I slipped away? I'm getting jolly
 well sick of this fun. We've had two hours of
 lackadaisical turning and twisting. I'm beginning
 to know what it feels like to be a teetotum. That
-stuff they call music--nothing but the same
+stuff they call music—nothing but the same
 twang-twang, scrape-scrape, and tom-tom over
 <pb n="12"/>
-and over again--makes the business ten times
+and over again—makes the business ten times
 worse. If this is the Nautch dancing I've heard
 so much about, I call it a beastly fraud.</q></p>
 
@@ -176,7 +175,7 @@ Stanhope as mere sport to pass away an idle hour,
 and he was pretty sure Clare looked at the matter
 in the same light. This was Clare's first season
 in the Hills, but she had shown herself skilful in
-the chief occupation of Simla society--the art of
+the chief occupation of Simla society—the art of
 make-believe love-making.</p>
 
 <p><q>You're not going, Horsford, are you?</q> said
@@ -244,7 +243,7 @@ of the men.</p>
 She had not the set smile of the professional
 dancer; indeed, the expression of her face was
 <pb n="15"/>
-inclined to melancholy. Her skin was lovely--a
+inclined to melancholy. Her skin was lovely—a
 pale olive which crimsoned charmingly under
 excitement. Nature sometimes played strange
 freaks with the Eurasian. Their complexions
@@ -263,15 +262,15 @@ at the sight of whom the lobster eyes of plethoric
 Colonel Chowden lost their vacuous gaze and the
 sleek, impassive face of the Rajah lightened into
 something like vitality, was the exception. Yet
-no one who saw her quiet, graceful movements--
-the movements of some beautiful feline animal--
+no one who saw her quiet, graceful movements—
+the movements of some beautiful feline animal—
 in which every muscle and nerve played their
 part, her slim, round arms, the symmetrically
 moulded shoulders, her small, shapely head, and
 the cast of her features, could doubt that the
 strain of the East lurked within her.</p>
 
-<p>The eyes were unmistakably of the West--an
+<p>The eyes were unmistakably of the West—an
 exception to the general rule. In some lights they
 were blue; in others they were grey. They were
 fringed with long, dark, silky lashes, and one could
@@ -282,9 +281,9 @@ East. But that fire would come with womanhood.</p>
 gracefulness of her lithe body. Her form was not
 hidden by coloured petticoats and trousers, or by
 <pb n="16"/>
-the wrapping of shawls. She wore a sari--the
+the wrapping of shawls. She wore a sari—the
 robe which the Hindu woman disposes so deftly
-and with so much art--of pale, rose-coloured silk,
+and with so much art—of pale, rose-coloured silk,
 bordered with gold. Its multitudinous folds passed
 over her head, the warm colour enhancing the
 beauty of the dark glossy hair, and accentuating
@@ -341,10 +340,10 @@ from a <foreign rend="roman" xml:lang="hi">tegha</foreign>, that brutal, short, 
 Sikhs know how to handle so confoundedly cleverly,
 and was invalided and sent to Delhi, where there
 wasn't any fighting, and not likely to be any.
-That was in 1845--six years ago. Delhi's not the
+That was in 1845—six years ago. Delhi's not the
 best place for a man with too much energy and
 nothing to use it upon, eh? Satan finds some
-evil work for idle hands to do--what do you say,
+evil work for idle hands to do—what do you say,
 Martin?</q></p>
 
 <p><q>You can answer that question for yourself,
@@ -368,7 +367,7 @@ spectator's eye was fascinated almost to the
 point of stupefaction. One saw nothing but
 the swaying body, the waving, beckoning hands,
 sometimes bent back until they almost touched
-the curved arms--a proof not only of flexibility, but
+the curved arms—a proof not only of flexibility, but
 of the accomplishments of the little dancer.</p>
 
 <p>She sang in a sweet, timorous voice, the <foreign xml:lang="hi">saringhee</foreign>
@@ -385,9 +384,9 @@ glittered, the bangles tinkled, all was barbaric,
 seductive. The imagination was inflamed, and
 one was no longer in the prosaic nineteenth cen-
 tury, in the year of universal peace, of the vain-
-glorious great Palace of Glass in Hyde Park--
+glorious great Palace of Glass in Hyde Park—
 built to symbolize the triumph of commerce,
-industry, and the arts over warfare and rapine--
+industry, and the arts over warfare and rapine—
 but back in the remote days of Tamerlane, of
 Genghis Khan, of the slave kings of Delhi, of
 Alexander the Conqueror. Salome might have
@@ -417,7 +416,7 @@ breath, her eyes became glassy in their brightness.
 Then the vivid scarlet of her cheeks suddenly
 died out.</p>
 
-<p><q>My God--she's fainting. Out of the way, you
+<p><q>My God—she's fainting. Out of the way, you
 black devil!</q> was heard above the scraping of
 the <foreign xml:lang="hi">saringhee</foreign>, the thrum-thrum of the <foreign xml:lang="hi">sitar</foreign>, and
 the tapping of the <foreign xml:lang="hi">tom-tom</foreign>.</p>
@@ -431,7 +430,7 @@ into his arms.</p>
 
 <div n="2" type="chapter">
 <pb n="20"/>
-<head type="num">Chapter II</head>
+<head type="num">Chapter <num type="cardinal" value="2">II</num></head>
 <head type="main">Jack Folliott's Little Girl</head>
 
 <p>Instantly there was confusion and uproar. The
@@ -454,8 +453,8 @@ justified in thinking so.</p>
 growled Horsford. <q>If you want to be of any use
 fetch water. Bring it to the verandah. Quick!</q></p>
 
-<p>He carried the girl--in his strong arms she was
-no heavier than a lotus flower--out of the warm,
+<p>He carried the girl—in his strong arms she was
+no heavier than a lotus flower—out of the warm,
 sickly-scented air. Ormerod and others followed.
 The servants stood awaiting the Rajah's orders.
 The Rajah sat immovable; quite content that
@@ -485,10 +484,10 @@ his comrade, Jack Folliott, who the next minute
 was shot through the heart.</p>
 
 <p>The face in the locket reminded Horsford, too,
-of something earlier than the battle of Moodkee--
-of a beautiful Mahommedan girl--of a picture of
-happiness--of her devotion to her lord the Sahib-
-logue, the father of her child--of her passionate
+of something earlier than the battle of Moodkee—
+of a beautiful Mahommedan girl—of a picture of
+happiness—of her devotion to her lord the Sahib-
+logue, the father of her child—of her passionate
 grief when he took leave of her to join the expedi-
 tion against the Sikhs.</p>
 
@@ -527,12 +526,12 @@ white lips. Then the tremulous eyelids were
 slowly raised, and a vague, wistful, troubled,
 timorous gaze stole from beneath. A pair of
 steady, fearless blue eyes were looking into hers.
-They were eyes a woman might trust--eyes that
-showed the strong, unflinching nature within--eyes
+They were eyes a woman might trust—eyes that
+showed the strong, unflinching nature within—eyes
 that told as plainly as eyes could speak that Guy
 Horsford's word was his bond.</p>
 
-<p><q>Nara--is that your name? Do you under-
+<p><q>Nara—is that your name? Do you under-
 stand me?</q></p>
 
 <p>He whispered the words in English as a test.
@@ -562,8 +561,8 @@ but where you and I won't be interrupted. Mean-
 while she's not going back into your care. Do
 you understand that?</q></p>
 
-<p><q>My lord--my lord--she is my own flesh and
-blood. She is my own grand-daughter. She----</q></p>
+<p><q>My lord—my lord—she is my own flesh and
+blood. She is my own grand-daughter. She——</q></p>
 
 <p><q>Hold your tongue. I believe you're lying.
 Let us go to the Rajah.</q></p>
@@ -594,8 +593,8 @@ of dancing-girls.</p>
 <p><q>What's your name?</q> said Horsford to the
 Mahommedan.</p>
 
-<p><q>Hoosein Khan, my lord--I am your lordship's
-humble servant--I am but dust beneath your
+<p><q>Hoosein Khan, my lord—I am your lordship's
+humble servant—I am but dust beneath your
 lordship's feet.</q></p>
 
 <p><q>Of course. That's understood. Come with me
@@ -651,17 +650,17 @@ ford's speech.</p>
 
 <p><q>It does not become a worm like myself to say
 aught against the Sahib. What is my word com-
-pared to his? But my lord forgets that the girl--
-blessed be Allah!-- is of the blood of the faithful.
+pared to his? But my lord forgets that the girl—
+blessed be Allah!— is of the blood of the faithful.
 Her mother was a true daughter of Allah. Who
-gives most to the offspring--the mother or the
+gives most to the offspring—the mother or the
 father? It is the mother, highness, is it not
 so?</q></p>
 
 <p>The Rajah stroked his beard and nodded gravely.</p>
 
 <p><q>Mashallah. And moreover I am the child's
-grandfather. Am I to lose my rights--the rights
+grandfather. Am I to lose my rights—the rights
 of blood and relationship?</q></p>
 
 <pb n="26"/>
@@ -669,7 +668,7 @@ of blood and relationship?</q></p>
 for he saw the Rajah was inclined to favour his
 co-religionist. <q>Are you, with a hang-dog face,
 with greed and vice written in every crease, of
-royal lineage? Come--answer me.</q></p>
+royal lineage? Come—answer me.</q></p>
 
 <p>Hoosein Khan looked terribly embarrassed. If
 he made a claim to be descended from a line of
@@ -729,13 +728,13 @@ the illustrious Shah Jahan to become a common
 <foreign xml:lang="hi">tuwaif</foreign>, of permitting her to associate with harlots
 if not becoming one herself, of compelling her to
 sell her beauty to the highest bidder? Is it not
-disgraceful--humiliating?</q></p>
+disgraceful—humiliating?</q></p>
 
 <p><q>You speak with much reason, Sahib,</q> the
 Rajah was pleased to say. <q>But is it true? Is
 the girl of the line of the great kings of Delhi?</q></p>
 
-<p><q>No--no,</q> burst in Hoosein Khan. <q>Her
+<p><q>No—no,</q> burst in Hoosein Khan. <q>Her
 mother was a <foreign xml:lang="hi">tuwaif</foreign> like herself. I can bring a
 hundred witnesses to prove it.</q></p>
 
@@ -764,8 +763,8 @@ hotly.</p>
 
 <p><q>It is of no consequence,</q> said the Rajah
 suavely. <q>I regret the Sahib has given himself
-the trouble of thrashing the wretch. Hassan</q>--
-he turned to one of his attendants--<q>remove
+the trouble of thrashing the wretch. Hassan</q>—
+he turned to one of his attendants—<q>remove
 that man. See that he does not escape. I will
 consider his punishment.</q></p>
 
@@ -820,7 +819,7 @@ ford, in a tone of disgust which he did not attempt
 to disguise.</p>
 
 <p><q>Too soon, Sahib. There is no need for hurry.
-The girl is safe--quite safe.</q></p>
+The girl is safe—quite safe.</q></p>
 
 <p>And for the moment Guy Horsford had to be
 satisfied. But when his glance fell on the girl and
@@ -832,7 +831,7 @@ borne her away, despite the Rajah and his guards.</p>
 <p>But such an act might have had far-reaching
 <pb n="30"/>
 consequences although India was at that time in
-tranquillity--as Indian tranquillity went. There
+tranquillity—as Indian tranquillity went. There
 had been no war since the Sikhs surrendered in
 1849, no uneasiness from the time when Sir Charles
 Napier disbanded the 66th Native Infantry the
@@ -848,7 +847,7 @@ past.</p>
 
 <p><q>Craft must be met by craft,</q> thought Horsford.
 <q>I'll keep my promise to Jack, come what may.
-Goodbye, little one--for the present,</q> said he in
+<choice><reg>Good-bye</reg><orig>Goodbye</orig></choice>, little one—for the present,</q> said he in
 a low voice.</p>
 
 <p>The girl meanwhile had been standing motion-
@@ -874,7 +873,7 @@ going with Hoosein Khan.</q></p>
 be wretched while he is away. He is the light of
 her eyes,</q> she whispered anxiously.</p>
 
-<p><q>Look for me to-morrow--or the next day at
+<p><q>Look for me to-morrow—or the next day at
 farthest.</q></p>
 
 <p>They could talk no longer. Hassan had called
@@ -885,7 +884,7 @@ was to act as guardian, or perhaps gaoler, of the
 dancing-girl, whom she looked upon with the
 greatest contempt, because of Nara's profession.</p>
 
-<p><q>Go, thou daughter of wickedness--through
+<p><q>Go, thou daughter of wickedness—through
 yonder door,</q> said she harshly, pointing with com-
 manding gesture to the end of the room.</p>
 
@@ -922,13 +921,13 @@ leading to Simla, high walls of black on either side
 looking solid as rock at night but in the daytime
 resolving themselves into forests of deodar. The
 metallic sound of his horse's hoofs set up in his
-brain cells a jingle of monotonous strains--a sort
+brain cells a jingle of monotonous strains—a sort
 of drone base to the weird, plaintive melody of the
 <foreign xml:lang="hi">saringhee</foreign> which still lingered in his memory. The
 picture of the child whirling to the music, the
 glittering gold, the sparkling jewels, the undula-
 tions of her supple body, her appealing eyes; the
-story of her descent from the far-off Shah Jahan--
+story of her descent from the far-off Shah Jahan—
 it was all fantastic, unreal, mystic; romance
 instinct with the wild traditions of ancient India.
 The past confronted the present. The East and
@@ -939,7 +938,7 @@ in hate? Who could say?</p>
 
 <div n="3" type="chapter">
 <pb n="33"/>
-<head type="num">Chapter III</head>
+<head type="num">Chapter <num type="cardinal" value="3">III</num></head>
 <head type="main">The World Forgetting, by the World Forgot</head>
 
 <p>The buggy entered the Mall, the principal thor-
@@ -948,7 +947,7 @@ Brilliant pencils of light shot from the slits of the
 shutters and tatties of the bungalows; a polka,
 thumped on a piano very much out of tune,
 mingled with women's laughter and the deeper
-tones of men. Buggies and dhoolies, with here and
+tones of men. Buggies and <foreign xml:lang="hi" rend="roman">dhoolies</foreign>, with here and
 there a clumsy country cart from the hills drawn
 by oxen, and an occasional horseman, made up
 the traffic in the centre of the road. Groups of
@@ -957,9 +956,9 @@ gesticulating according to their mood. Simla was
 in full wakefulness after slumbering through the
 heat of the day.</p>
 
-<p>The buggy slackened its pace--due more to the
+<p>The buggy slackened its pace—due more to the
 inclination of the horse than to any intention on
-the part of its master--on approaching a bungalow
+the part of its master—on approaching a bungalow
 standing some distance from the road and half
 hidden by great clumps of rhododendron.</p>
 
@@ -967,7 +966,7 @@ hidden by great clumps of rhododendron.</p>
 Horsford. <q>Shall I call? My only other place of
 refuge is the club. I'm not in the mood to be
 bored by Deputy Commissioner Dobson's prosy
-tales, or that young fool Blackley's inane chatter--
+tales, or that young fool Blackley's inane chatter—
 <pb n="34"/>
 they generally take possession of the smoking-room
 at this time.</q></p>
@@ -999,7 +998,7 @@ thickets voices struck upon his ear.</p>
 Stanhope,</q> some one was saying. The voice, hard,
 almost rasping, was that of Andrew Meldrum, one
 of the richest merchants in India. He dealt in
-everything--indigo, cotton, rice, shawls, muslins,
+everything—indigo, cotton, rice, shawls, muslins,
 and half a hundred other commodities. He had
 branches in Bombay, Calcutta, Madras, and Delhi.</p>
 
@@ -1020,7 +1019,7 @@ gaily. <q>Beware of the <foreign xml:lang="hi">goojurs</foreign> (robbers). I'm
 told they've been seen on the Meerut road.</q></p>
 
 <p><q>Oh, I'm always prepared for gentry of that
-kind, whether <foreign rend="roman" xml:lang="hi">goojurs</foreign> or Delhi budmash (roughs).</q></p>
+kind, whether <foreign rend="roman" xml:lang="hi">goojurs</foreign> or Delhi <foreign xml:lang="hi" rend="roman">budmash</foreign> (roughs).</q></p>
 
 <p>As he turned Horsford's step was heard on the
 hard sand.</p>
@@ -1054,7 +1053,7 @@ Clare say in her clear, penetrating tones.</p>
 
 <pb n="36"/>
 <p>The words relieved Meldrum's fears. Guy Hors-
-ford had not called to see Clare--that was some-
+ford had not called to see Clare—that was some-
 thing. Nor did Clare appear eager to ask the
 officer in. She remained standing near a slender
 support of the bungalow, a graceful, dainty little
@@ -1102,10 +1101,10 @@ meant to provoke <emph>her</emph>.</p>
 call nice,</q> said he.</p>
 
 <p><q>No? I'd like to see you out of temper,
-Captain Horsford--just once. I wonder if I could
+Captain Horsford—just once. I wonder if I could
 really send you into a passion.</q></p>
 
-<p><q>I'll quote your own words--I don't know; it
+<p><q>I'll quote your own words—I don't know; it
 all depends upon yourself.</q></p>
 
 <p>Horsford did not attempt to approach her.
@@ -1116,7 +1115,7 @@ tion to enter. He knew it would come.</p>
 sudden petulance. <q>Why don't you come in?
 You're not afraid, are you?</q></p>
 
-<p><q>Afraid? Of you, Clare? Again--I don't
+<p><q>Afraid? Of you, Clare? Again—I don't
 know.</q></p>
 
 <p>He came close to her. She raised her head, not
@@ -1133,7 +1132,7 @@ see its importance.</p>
 
 <p>Clare might have been a Dresden china shepher-
 dess in her daintiness; in the harmonious lines of
-her shoulders, in her round, full--not too full--
+her shoulders, in her round, full—not too full—
 throat, in the delicately shaped bust. The sweep
 of the chin to the ear was exquisite, and so also
 were the curves of the chin itself, and the dimple
@@ -1163,7 +1162,7 @@ would-be Don Juan began to sentimentalise she
 laughed, and before her raillery the lady-killer
 was powerless. Perhaps this was why she and
 Horsford were such good friends. Guy Horsford
-scorned--or pretended to scorn--love and senti-
+scorned—or pretended to scorn—love and senti-
 ment as much as she did.</p>
 
 <p>It might have been the effect of the mellow
@@ -1230,7 +1229,7 @@ bring it back to its former high pitch.</p>
 
 <p><q>I'm so sorry I was late,</q> said Horsford, apropos
 of nothing. <q>The fact is I had an adventure at
-the Rajah's and---- But perhaps I should have
+the Rajah's and—— But perhaps I should have
 been in the way had I come earlier.</q></p>
 
 <p><q>Why? I don't understand you.</q></p>
@@ -1259,7 +1258,7 @@ to be punctual.</q></p>
 <p><q>It doesn't matter. Why should it? As for
 telling you beforehand that I expected <abbr>Mr.</abbr>
 <pb n="41"/>
-Meldrum, and that I wanted you to--to---- Oh,
+Meldrum, and that I wanted you to—to—— Oh,
 how stupid men are!</q></p>
 
 <p><q>Possibly because they can't see into a woman's
@@ -1302,7 +1301,7 @@ two selves. They were the sole inhabitants of
 their self-created world.</p>
 
 <pb n="42"/>
-<p><q>Don't--don't! You frighten--me,</q> panted
+<p><q>Don't—don't! You frighten—me,</q> panted
 the girl. He had kissed her with sudden
 fierceness.</p>
 
@@ -1313,13 +1312,13 @@ feet and held her half a dozen inches from the
 ground while he kissed her again and again. She
 struggled, but she was helpless.</p>
 
-<p><q>It isn't fair,</q> she cried. <q>You're cruel--
+<p><q>It isn't fair,</q> she cried. <q>You're cruel—
 horribly cruel. Put me down. I insist upon it.</q></p>
 
 <p>He obeyed slowly and reluctantly. She sank
 gasping on a settee; he dropped into the vacant
 space by her side. The days of flirtation were
-over--both felt that. They had sounded a new
+over—both felt that. They had sounded a new
 note in the never dying gamut of love. What
 would be the end of it?</p>
 
@@ -1327,7 +1326,7 @@ would be the end of it?</p>
 world of reality asserted its domination relentlessly.
 The faint, sickly scent of the flowers, the hot, close
 air, the buzz of self-immolating winged life, the
-monotonous tick of the French clock--all was
+monotonous tick of the French clock—all was
 accentuated.</p>
 
 <p>Horsford flung open the window. He stood for
@@ -1359,7 +1358,7 @@ sion of feeling.</p>
 <p><q>Did Meldrum ask you to-night to be his wife?</q>
 he broke out abruptly.</p>
 
-<p><q>Why do you talk of <abbr>Mr.</abbr> Meldrum--now?</q>
+<p><q>Why do you talk of <abbr>Mr.</abbr> Meldrum—now?</q>
 she asked with piquant petulance. <q>Tell me
 about yourself, Guy, and what you and the rest
 did at the Rajah's dinner? You spoke about an
@@ -1380,14 +1379,14 @@ softened. He kissed her eyelids and said laughingly:</p>
 I don't want to be in the dark about Meldrum. I'd
 like to know how to meet him.</q></p>
 
-<p><q>Well then--he <emph>did</emph> put the question to me.
+<p><q>Well then—he <emph>did</emph> put the question to me.
 But what of it?</q> she rejoined, her clasped
 fingers tightening their pressure on his arm.
 <q>Do you suppose, you silly boy, I haven't had
 offers of marriage?</q></p>
 
 <pb n="44"/>
-<p><q>I don't doubt it, but--your answer to this
+<p><q>I don't doubt it, but—your answer to this
 particular one?</q></p>
 
 <p><q>I believe you're going to be cross,</q> she cried,
@@ -1402,7 +1401,7 @@ Clare gave a little shiver. She did not like Hors-
 ford's persistency. It annoyed her, but she did
 not intend to show her annoyance. She was
 very desirous of pleasing the man whose kisses
-were fresh on her lips--more desirous than ever--
+were fresh on her lips—more desirous than ever—
 but her way of pleasing was by avoiding all sub-
 jects that were unpleasant, and just now the name
 of Andrew Meldrum was particularly objection-
@@ -1425,7 +1424,7 @@ stand what she meant. And so, I bet, will Mel-
 drum. I hate the man, but I can't deny that he
 has the quality of not knowing when he's beaten.
 You must write and say with firmness and de-
-cision----</q></p>
+cision——</q></p>
 
 <p><q>My dear boy, I don't know what firmness and
 decision mean. And I do so hate writing unpleasant
@@ -1435,9 +1434,9 @@ letters. I'm sure to be most aggravating.</q></p>
 <p><q>I dare say. That can't be helped. It's very
 evident that if you don't write and settle the
 matter he'll be continually pestering you, and I
-won't have it--you're mine, Clare--yes,</q> he re-
+won't have it—you're mine, Clare—yes,</q> he re-
 peated, something of his old fierceness creeping
-into his voice, <q>you're mine--mine!</q></p>
+into his voice, <q>you're mine—mine!</q></p>
 
 <p><q>As if I should ever forget <emph>that!</emph></q> she cried,
 her eyes suddenly blazing. She was silent for a
@@ -1454,7 +1453,7 @@ Its sharp, imperative clang jarred upon both.</p>
 <p><q>The doctor said he would return soon after
 twelve,</q> she whispered. <q>No, don't shut the
 window. The room's fearfully hot. Let us sit
-down comfortably. Stay--you'll have a <q>peg,</q>
+down comfortably. Stay—you'll have a <q>peg,</q>
 won't you? How dreadfully inhospitable of me
 not to think of it before. You poor fellow!</q></p>
 
@@ -1467,7 +1466,7 @@ the spirit.</p>
 
 <div n="4" type="chapter">
 <pb n="46"/>
-<head type="num">Chapter IV</head>
+<head type="num">Chapter <num type="cardinal" value="4">IV</num></head>
 <head type="main">The Little Rift</head>
 
 <p>Guy Horsford told Clare everything. The story
@@ -1494,11 +1493,11 @@ a considerable knowledge of the weaknesses of
 human nature.</p>
 
 <p>The first part of Horsford's narrative thrilled
-her. It lifted her into a higher world--a world
+her. It lifted her into a higher world—a world
 <pb n="47"/>
 of which previously she had had no knowledge
 except in the cold pages of historic books at
-school--secretly voted <q>frightfully dry.</q> To hear
+school—secretly voted <q>frightfully dry.</q> To hear
 an account of a battle, of heroism, of death, from
 the lips of a soldier was a different matter.</p>
 
@@ -1522,7 +1521,7 @@ future if she were not rescued.</p>
 
 <p><q>That's the story so far as it's gone,</q> said he
 in conclusion. <q>It's to be continued in our next
---but in what way nobody knows. In any case
+—but in what way nobody knows. In any case
 I'm not going to let the matter rest. I must keep
 my promise. I should never forgive myself if I
 did not. Don't you think, Clare, I'm right?</q></p>
@@ -1538,7 +1537,7 @@ English. As for her looks, I never saw a more
 lovely child.</q></p>
 
 <pb n="48"/>
-<p><q>Most romantic! You call her a child--how
+<p><q>Most romantic! You call her a child—how
 old is she?</q></p>
 
 <p><q>About eleven, I should think.</q></p>
@@ -1565,7 +1564,7 @@ bit about.</q></p>
 thing more than shelter for this poor waif and
 stray until I can decide what's the best to be done.
 If the Rajah refuses to give her up, I shall take
-her by stratagem or--force. She may have to be
+her by stratagem or—force. She may have to be
 concealed. I strongly suspect there's a plot going
 on between the Rajah and Hoosein Khan, but if
 there's a thousand plots I'll defeat them. You'll
@@ -1593,10 +1592,10 @@ they weren't.</q></p>
 <p><q>And that's your objection?</q></p>
 
 <p><q>Well, isn't it a proper one? I'm certain all
-the English ladies in Simla and Delhi--Delhi
-especially--would say I was right.</q></p>
+the English ladies in Simla and Delhi—Delhi
+especially—would say I was right.</q></p>
 
-<p><q>No doubt--no doubt,</q> returned Horsford, with
+<p><q>No doubt—no doubt,</q> returned Horsford, with
 a hard laugh.</p>
 
 <p>He rose from the settee and paced the room,
@@ -1631,7 +1630,7 @@ go to extremes either in prudence or folly.</p>
 front of her. Clare was sitting quite composedly,
 her clasped hands resting lightly on her crossed
 knees. She looked remarkably cool and indifferent
---an effect due perhaps to the absence of her
+—an effect due perhaps to the absence of her
 usually brilliant colour. She had gone somewhat
 pale, and the swinging of the little foot was an
 indication of disturbed nerves.</p>
@@ -1643,7 +1642,7 @@ mix yourself up in such a matter.</q></p>
 
 <p><q>And what do you intend to do?</q></p>
 
-<p><q>Go on with it, of course--to the bitter end.</q></p>
+<p><q>Go on with it, of course—to the bitter end.</q></p>
 
 <p>Clare sprang to her feet, trembling violently.
 She came close to Horsford and raised her hands
@@ -1661,13 +1660,13 @@ to give me up.</q></p>
 <p>Horsford opened his eyes in amazement.</p>
 
 <p><q>Good Heavens, no. Why should I? Do you
-take me for a cad--a coward?</q></p>
+take me for a cad—a coward?</q></p>
 
 <p><q>No, but I think you must imagine I'm a fool.
 What will people say about you? That you are
 the associate of dancing-girls. Among men such
-a reputation doesn't matter, but among women--
-English women----</q></p>
+a reputation doesn't matter, but among women—
+English women——</q></p>
 
 <p><q>Well, whatever is said,</q> interrupted Horsford
 <pb n="51"/>
@@ -1687,10 +1686,10 @@ your dancing-girl.</q></p>
 of rivalry between you and this child! It's too
 ridiculous. You're missing the point entirely.
 My choice lies between my love for you and my
-oath to my dead friend--my friend to whom I owe
+oath to my dead friend—my friend to whom I owe
 my life.</q></p>
 
-<p><q>Put it that way if you like--I don't care.</q></p>
+<p><q>Put it that way if you like—I don't care.</q></p>
 
 <p><q>I stand by my oath,</q> said he doggedly.</p>
 
@@ -1699,7 +1698,7 @@ eyes blazed, and she shook with passion.</p>
 
 <p><q>And you say that coolly after I have given
 you my whole love. All I have is yours, Guy.
-You know it is--whatever happens,</q> said she
+You know it is—whatever happens,</q> said she
 huskily.</p>
 
 <p><q>It's not my fault. You've forced the position
@@ -1709,7 +1708,7 @@ on me.</q></p>
 will be your ruin! Do be persuaded. Don't act
 like a madman! You told me to-night you loved
 me. Am I to believe that you're a hypocrite?
-that--that----</q></p>
+that—that——</q></p>
 
 <p>She covered her face with her hands. Her
 passion had spent itself. She was on the verge
@@ -1736,7 +1735,7 @@ taking your leave. Do you understand?</q></p>
 
 <p>Horsford did so only partially. It could not be
 said he understood Clare. She was certainly acting
-now, and a disturbing thought crossed his mind--
+now, and a disturbing thought crossed his mind—
 had she been acting all along?</p>
 
 <p>The doctor's voice was heard outside. Horsford,
@@ -1750,7 +1749,7 @@ able to tear yourself away from the Rajah's
 hospitality. It generally becomes very pronounced
 after midnight. His Highness has some wonder-
 ful wines, not a drop of which he ever tastes.
-He's above temptation--in that way. I was
+He's above temptation—in that way. I was
 very sorry I could not put in an appearance. I
 hoped to do so, but the eternal feminine inter-
 vened, as usual.</q></p>
@@ -1758,7 +1757,7 @@ vened, as usual.</q></p>
 <p><q>How is <abbr>Mrs.</abbr> Foord?</q> asked Clare.</p>
 
 <pb n="53"/>
-<p><q>Going on splendidly, and the baby too--a
+<p><q>Going on splendidly, and the baby too—a
 remarkably fine boy. His father and I christened
 him over a bottle of champagne.</q></p>
 
@@ -1806,7 +1805,7 @@ confidence over the dancing-girl he did not doubt
 her sincerity, but what was that sincerity worth?
 It had failed at the first test. Her prudishness
 struck him as a contradiction. She had been
-quick to return his ardent kisses--she had been as
+quick to return his ardent kisses—she had been as
 quick to treat him with icy coldness over what
 Simla society would think.</p>
 
@@ -1814,7 +1813,7 @@ Simla society would think.</p>
 we married I suppose we should have passed our
 time in bickering. Clare would have spent half
 the year at Simla and I should have stuck at
-Delhi--and what would happen then?</q></p>
+Delhi—and what would happen then?</q></p>
 
 <p>He resolved to think no more about Clare.
 She had taken her course, let her continue in it if
@@ -1832,7 +1831,7 @@ before he had time for a second he saw there was
 no cause for alarm. The stranger was a woman and
 unveiled, showing that she was not of high rank.</p>
 
-<p><q>Sahib--Sahib,</q> she whispered excitedly, <q>you
+<p><q>Sahib—Sahib,</q> she whispered excitedly, <q>you
 must come with me at once.</q></p>
 
 <pb n="55"/>
@@ -1842,10 +1841,10 @@ must come with me at once.</q></p>
 ber Nara's ayah? I knew the Sahib the instant
 my eyes lighted upon him at the Rajah's Palace.
 If you would save the girl do not delay one instant.
-Ah, she is in great peril! My poor--poor Nara.
+Ah, she is in great peril! My poor—poor Nara.
 Sahib, you must bring your pistol and sword.
 There may be fighting, but Hoosein Khan is a
-coward--they are all cowards--aye, even the
+coward—they are all cowards—aye, even the
 Rajah. He is in the plot, too!</q></p>
 
 <p>Horsford recollected the woman. It was she
@@ -1859,7 +1858,7 @@ lips so rapidly that Horsford at first did not grasp
 their full meaning. But it was sufficient for him
 to know that the girl was in great danger.</p>
 
-<p><q>Quiet yourself. Tell me everything slowly--
+<p><q>Quiet yourself. Tell me everything slowly—
 slowly. Do you understand?</q> said he, clasping her
 wrists firmly.</p>
 
@@ -1920,7 +1919,7 @@ know where the Rajah's placed the girl?</q></p>
 
 <p><q>In an upper room in the Palace. My own
 cousin perfumes the hair of the ladies of the <foreign xml:lang="hi">zenana</foreign>
---she has promised to help me. But we must
+—she has promised to help me. But we must
 go at once. Hoosein Khan will not rest until he
 has the girl safely inside the King's Palace. He is
 thinking of his skin and of his rupees. Do you
@@ -1929,11 +1928,11 @@ the girl to Zeenut Mehal before the gossip finds its
 way to her ears? But he may not be able to get
 away as soon as he hopes. The Rajah may delay
 him. The Rajah fears Zeenut Mehal, but, Sahib,
-he may be tempted--who knows? Yet all is in
+he may be tempted—who knows? Yet all is in
 the hands of Allah. I pray He may protect my
 poor Nara.</q></p>
 
-<p><q>Wait here, Azeena. I'll get the buggy and----</q></p>
+<p><q>Wait here, Azeena. I'll get the buggy and——</q></p>
 
 <p><q>No, no, Sahib,</q> she interrupted. <q>It is of no
 use going as if you were on a visit of ceremony to
@@ -1944,7 +1943,7 @@ to the Palace, but I know a short cut over the hills.
 It will save quite one <foreign xml:lang="hi">coss</foreign> and you will get there
 as soon as you would in the buggy.</q></p>
 
-<p><q>That means a walk of two <foreign xml:lang="hi">coss</foreign>--four miles.
+<p><q>That means a walk of two <foreign xml:lang="hi">coss</foreign>—four miles.
 Very well, then, let us start.</q></p>
 
 </div>
@@ -1954,7 +1953,7 @@ Very well, then, let us start.</q></p>
 
 <div n="5" type="chapter">
 <pb n="58"/>
-<head type="num">Chapter V</head>
+<head type="num">Chapter <num type="cardinal" value="5">V</num></head>
 <head type="main">Gone!</head>
 
 <p>Soon they were beneath the deodars, tramping
@@ -2007,7 +2006,7 @@ space. Azeena suddenly turned and faced Hors-
 ford.</p>
 
 <p><q>Zora has answered my signal. We must be
-careful. That is the meaning of two whistles--
+careful. That is the meaning of two whistles—
 one long and one short.</q></p>
 
 <p>The note which Horsford thought was that of a
@@ -2041,13 +2040,13 @@ wreaths of mist, and came hastily towards them.
 She was unveiled and her face was troubled.</p>
 
 <p><q>Why did you not come before?</q> she cried.
-<q>I have been sitting here an hour--shaking with
+<q>I have been sitting here an hour—shaking with
 cold and fearing discovery. I brought a pitcher
 to show that I had come to the well for water,
 lest I might not be believed. You are too late,
 Sahib. Hoosein Khan and his party are gone
 and they have taken Nara with them. Had
-Azeena come back at once as she promised----</q></p>
+Azeena come back at once as she promised——</q></p>
 
 <p><q>I could not. I had to wait for the Sahib,</q>
 interrupted Azeena. <q>I thought to reach his
@@ -2056,7 +2055,7 @@ It was not his fault. How could he tell I was
 expecting him? He had important business,
 doubtless, that delayed him.</q></p>
 
-<p>Important business? Folly--folly--folly!
+<p>Important business? Folly—folly—folly!
 Horsford ground his teeth when he thought of it.
 Clare Stanhope had indeed come between him and
 his oath to poor Jack Folliott!</p>
@@ -2090,23 +2089,23 @@ does the party travel, Zora?</q></p>
 Meerut road.</q></p>
 
 <p><q>By far the longest way. That's to throw me
-off the scent. Good! And the soldiers--are
+off the scent. Good! And the soldiers—are
 they mounted?</q></p>
 
 <p><q>No. His Highness the Rajah would not let
 his horses be used.</q></p>
 
 <p><q>Humph! much obliged to his highness. <foreign xml:lang="hi">Bahlees</foreign>
-drawn by oxen and men on the tramp--not much
+drawn by oxen and men on the tramp—not much
 more than two miles an hour taking the day
 throughout. Azeena, we must get back to Simla
-sharp--that's the first thing to do.</q></p>
+sharp—that's the first thing to do.</q></p>
 
 <p><q>Yes, Sahib.</q></p>
 
 <p>The woman fixed her large, patient eyes, as
 faithful and as watchful as those of a dog, on the
-Sahib-logue--the man of the master race. Azeena
+Sahib-logue—the man of the master race. Azeena
 did not trouble to think what the Sahib proposed
 to do but resigned herself to his orders.</p>
 
@@ -2368,7 +2367,7 @@ the fainting dancing-girl. But it was otherwise
 with Ormerod.</p>
 
 <p><q>I beg your pardon, <abbr>Mr.</abbr> Anson. I begin now
-to think you're good. But you might be better--
+to think you're good. But you might be better—
 if for instance you could get me a cup of tea.
 Perhaps, though, I'm taxing the resources of the
 club too much,</q> said Clare sweetly.</p>
@@ -2397,7 +2396,7 @@ rade away.</p>
 wonder how she's got hold of the story? All right,
 my dear, you won't squeeze much out of me.</q></p>
 
-<p><q>Oh, it was interesting--in a way,</q> said he.
+<p><q>Oh, it was interesting—in a way,</q> said he.
 <q>What happened, I fancy, was as unexpected by
 the Rajah as by anybody else. One of the dancing-
 girls fainted, but it was nothing serious. Of course
@@ -2405,9 +2404,9 @@ she didn't dance any more.</q></p>
 
 <p><q>Was that all? You don't seem to have seen
 much,</q> retorted Clare. <q>Wasn't there some
-disturbance--some squabble? Didn't Captain
+disturbance—some squabble? Didn't Captain
 <pb n="69"/>
-Horsford raise a protest?--I don't know what
+Horsford raise a protest?—I don't know what
 about.</q></p>
 
 <p><q>I believe there was a word or two said,</q> re-
@@ -2502,8 +2501,8 @@ ment of the lad, who had expended his stock
 of abusive Hindustani in hurrying the native <foreign xml:lang="fr">chef</foreign>.</p>
 
 <p>After leaving half the vapid concoction Clare
-gathered up the reins and with a nod and a smile--
-not one of her best--she started the ponies into a
+gathered up the reins and with a nod and a smile—
+not one of her best—she started the ponies into a
 trot and left the Major and the Cornet, their hats
 in their hands, watching her and admiring the
 way she <q>handled the ribbons.</q></p>
@@ -2514,7 +2513,7 @@ way she <q>handled the ribbons.</q></p>
 
 <div n="6" type="chapter">
 <pb n="72"/>
-<head type="num">Chapter VI</head>
+<head type="num">Chapter <num type="cardinal" value="6">VI</num></head>
 <head type="main">The Eternal Question</head>
 
 <p>For the next five minutes the one topic of con-
@@ -2530,14 +2529,14 @@ before long,</q> chuckled red-faced Colonel Chowden.
 because she was too much for them. The sooner
 she's married the better.</q></p>
 
-<p><q>For the doctor--yes. But what about her
+<p><q>For the doctor—yes. But what about her
 husband?</q> said Ormerod.</p>
 
 <p>Then they fell to discussing two questions of
 absorbing interest, one which makes the whole
-world akin--the mystery of woman in general--
+world akin—the mystery of woman in general—
 and the other appealing to Europeans in India
-only--the native woman. It was hard to say
+only—the native woman. It was hard to say
 which at the moment was the more important.
 The competition of the West with the East had of
 late years been gradually increasing. India had
@@ -2558,8 +2557,8 @@ opinions on the eternal feminine were those ex-
 pressed by an old Calcutta journalist, whose
 illuminating words may appropriately be quoted.</p>
 
-<p><q>Nearly all the unmarried Europeans--and few
-were married in those days--lived,</q> he writes, <q>in
+<p><q>Nearly all the unmarried Europeans—and few
+were married in those days—lived,</q> he writes, <q>in
 acknowledged concubinage with native women.</q></p>
 
 <p>In 1810 a work called <title>The East Indian Vade
@@ -2655,9 +2654,9 @@ mically and comfortably with the woman who
 will be faithful to him and worship him as if he
 were her god, or he must waste his substance on a
 dancing-girl. In the one case he ruins his char-
-acter--in the opinion of <abbr>Mrs.</abbr> Grundy, do you
+acter—in the opinion of <abbr>Mrs.</abbr> Grundy, do you
 understand? in the other he ruins himself, body,
-purse, and prospects. Now----</q></p>
+purse, and prospects. Now——</q></p>
 
 <p>But the dinner-gong sounded, and perhaps it
 was just as well.</p>
@@ -2680,7 +2679,7 @@ in the background. Of course I was silly to fly out
 at him, but it was his fault. He showed dread-
 fully bad taste in talking of the girl at all to me.
 Up to that point we were the best of friends
-and----</q></p>
+and——</q></p>
 
 <p>She paused. A dreamy look stole into her eyes.
 Friendship hardly expressed the situation. If
@@ -2691,14 +2690,14 @@ Clare Stanhope who smiled and enticed number-
 less admirers, while at the same time she kept
 them at bay, was not the Clare Stanhope who
 returned Guy Horsford's passionate kisses. Then
-a fresh mood seized her--she was filled with
+a fresh mood seized her—she was filled with
 remorse. She reproached Guy, she reproached
 herself.</p>
 
 <p><q>Why couldn't he see I didn't mean what I
 said? I was right to be angry, but I felt sure
 he would call this morning to make it up. Oh,
-he's heartless--cold and heartless!</q> were the
+he's heartless—cold and heartless!</q> were the
 words that hammered themselves on her brain.</p>
 
 <p>It was a bitter lesson for Clare, who had always
@@ -2732,7 +2731,7 @@ but Andrew Meldrum's.</p>
 <p>She sank into a chair, feeling that she was near-
 ing a crisis in her life which she had not the courage
 to meet. Yet it must be met. Guy Horsford,
-the man she loved, was gone--sent away by her-
+the man she loved, was gone—sent away by her-
 self. That was the galling part of the business.
 Could she humble herself sufficiently to write
 and beg him to come back? Scarcely in her pre-
@@ -2767,8 +2766,8 @@ up by saying that he proposed to call that night
 for her reply, and this was the only part of the
 letter which quickened her heart-beats.</p>
 
-<p><q>I can't see him--I won't see him. I--I would
-say no, but--but I dare not. I must give Guy a
+<p><q>I can't see him—I won't see him. I—I would
+say no, but—but I dare not. I must give Guy a
 chance. Yes, I <emph>must</emph>,</q> she cried hurriedly.</p>
 
 <p>It was easy to feign illness, and indeed in this
@@ -2806,10 +2805,10 @@ announced.</q></p>
 suppose I'm not allowed to decide for myself?</q>
 returned Clare sharply.</p>
 
-<p><q>Of course you are--the trouble is that you
+<p><q>Of course you are—the trouble is that you
 won't decide. The man is continually tackling
 me to know what is the matter. I've exhausted
-the usual excuse--a slight cold--and I've fallen
+the usual excuse—a slight cold—and I've fallen
 back on nerves, and now I look at you, little
 girl, I begin to think that I've hit upon your
 complaint. What's upset you?</q></p>
@@ -2850,7 +2849,7 @@ have expected such wisdom from your pretty lips.
 But we're wandering from the point.</q></p>
 
 <p><q>I'm afraid I interrupted your interesting
-analysis--or is diagnosis the proper word?--of <abbr>Mr.</abbr>
+analysis—or is diagnosis the proper word?—of <abbr>Mr.</abbr>
 Meldrum's character. Please go on,</q> said Clare
 languidly. <q>You were saying he was seeking
 marriage as a rival to his god Mammon.</q></p>
@@ -2880,7 +2879,7 @@ because he says so little he doesn't feel deeply.
 If he's once deceived where he's placed his faith
 he'll never forgive. But so long as his suspicions
 are not excited he'll be as blind as a bat. He's
-given me a hint as to his intentions--but perhaps
+given me a hint as to his intentions—but perhaps
 he's already told you?</q></p>
 
 <p><q>About retiring from business and returning
@@ -2893,8 +2892,8 @@ him, isn't it?</q></p>
 sorbed her attention.</p>
 
 <p><q>No, I don't think it is,</q> at last she said slowly.
-<q>I like India. I like the romance--the natural
-life where everything's made pleasant for one--
+<q>I like India. I like the romance—the natural
+life where everything's made pleasant for one—
 even the climate. Here at Simla it's lovely. No,
 I'm not anxious to go back to England. I said
 good-bye to all my friends when I left, and I
@@ -2902,7 +2901,7 @@ expect if I went back they'd all be different. I
 don't believe in trying to restore old friendships.</q></p>
 
 <p><q>Humph!</q> grunted the doctor. <q>I wish I
-knew what you did believe in, Clare--apart from
+knew what you did believe in, Clare—apart from
 flirtation. Anyhow, what am I to say when
 Meldrum next questions me? I'm almost certain
 to see him to-morrow at the club.</q></p>
@@ -2917,11 +2916,11 @@ he's certain to return to the subject. Shall I say
 you'll write to him definitely, say before the week's
 out?</q></p>
 
-<p><q>No--please don't. Give me a fortnight to
+<p><q>No—please don't. Give me a fortnight to
 think it over.</q></p>
 
 <p><q>You've had three days already. Time enough
-one would think, unless----</q></p>
+one would think, unless——</q></p>
 
 <p><q>Well, unless?</q></p>
 
@@ -2932,7 +2931,7 @@ such things.</q></p>
 <p><q>And so have I. But really I'm not so hesita-
 ting as you seem to suppose. Tell <abbr>Mr.</abbr> Meldrum
 that in a fortnight I will let him know. In the
-meantime, uncle dear, don't give me away. I--I
+meantime, uncle dear, don't give me away. I—I
 really couldn't stand the strain of an interview
 just yet.</q></p>
 
@@ -2954,7 +2953,7 @@ tered, as he sauntered into the dining-room.</p>
 
 <div n="7" type="chapter">
 <pb n="83"/>
-<head type="num">Chapter VII</head>
+<head type="num">Chapter <num type="cardinal" value="7">VII</num></head>
 <head type="main">In the Heart of Delhi</head>
 
 <p>It was the early morning when the palanquins
@@ -2966,7 +2965,7 @@ slopes. Delhi lay a mile or so to the south, bathed
 in the glory of the rising sun, a city of crimson
 and white. The three marble domes of the Jama
 Masjid or <q>great mosque</q> stood out in cold
-stateliness against the morning sky--in their
+stateliness against the morning sky—in their
 massiveness a striking contrast to the graceful
 minarets of striped white and pink at the corners.
 The grim, solid fort of Salim-garh to the east of
@@ -3071,8 +3070,8 @@ reaching Delhi and I can't wait. My son has
 made all the arrangements for the journey, and
 the Bank's agent in Bombay has instructions to
 book my passage to England. If you can only
-succeed in placing the child in my hands all right--
-I'll take care of her--but it must be done at once.</q></p>
+succeed in placing the child in my hands all right—
+I'll take care of her—but it must be done at once.</q></p>
 
 <p><q>You're a true friend,</q> said Horsford. <q>But
 please don't imagine it's an easy matter you're
@@ -3102,8 +3101,8 @@ after Guy Horsford obtained his lieutenancy, and
 neither they nor their wives knew anything of
 Captain Folliott's attachment to a native girl.
 Horsford's plan was to despatch Nara to the keep-
-ing of <abbr>Mrs.</abbr> Spicer--he had more faith in her than
-in her sister--and trust to fate for the rest.</p>
+ing of <abbr>Mrs.</abbr> Spicer—he had more faith in her than
+in her sister—and trust to fate for the rest.</p>
 
 <p><q>Part of my duty, then, is to hand the child
 over to her aunts,</q> said <abbr>Mrs.</abbr> Mowatt. <q>So far
@@ -3112,7 +3111,7 @@ beforehand, of course?</q></p>
 
 <p><q>Yes, the mail goes out to-morrow. My letter
 will reach <abbr>Mrs.</abbr> Spicer about a fortnight before
-you--that is if you start from Bombay directly
+you—that is if you start from Bombay directly
 you arrive there. As you say, no embarrassment
 is likely to arise, it's the preliminaries about the
 deportment of Eurasians that may be a little
@@ -3149,8 +3148,8 @@ Mowatt.</p>
 <q>presents no difficulty. Azeena would give her
 life for the girl, and though I expect a little oppo-
 sition when she learns that she'll have to cross the
-<soCalled>black water,</soCalled></q>--most native women are horribly
-afraid of the sea--<q>I'm sure her love for Nara will
+<soCalled>black water,</soCalled></q>—most native women are horribly
+afraid of the sea—<q>I'm sure her love for Nara will
 carry everything before it. You know what Azeena
 is by this time and you tell me you don't dislike
 her.</q></p>
@@ -3161,7 +3160,7 @@ had to do with. In England, you know, I wouldn't
 put up with one of them for a minute. What I
 don't like is they can be frightfully rude without
 saying a word. Azeena seems a faithful, docile
-creature and better than the rest--better, anyway,
+creature and better than the rest—better, anyway,
 than those Portuguese ayahs. I've come across
 one or two specimens, horrid, stuck-up creatures
 I wouldn't give house-room to. I'm told the
@@ -3172,11 +3171,11 @@ with me?</q></p>
 
 <pb n="89"/>
 <p><q>I think she'd better go to her people. Her
-father's a very old man--a dealer in grain or some-
+father's a very old man—a dealer in grain or some-
 thing of that kind. Keeps a store in a dirty lane
 just off the Chandi Chauk. I may want her assis-
 tance at any moment and she ought to be handy.
-Besides, things may happen--I can't say what--
+Besides, things may happen—I can't say what—
 and I don't want to compromise you in any way.</q></p>
 
 <p><q>You talk, Captain Horsford, as if there was
@@ -3185,8 +3184,8 @@ you go further in the matter? It's too romantic
 to be safe. One never knows where romance
 ends. It's not like business; you can stop a specu-
 lation when things are going wrong, and you can
-generally see a bit ahead. But with romance--or
-love--no.</q></p>
+generally see a bit ahead. But with romance—or
+love—no.</q></p>
 
 <p>Horsford was not disposed to dispute the truth
 of this. It had been so in Jack Folliott's case,
@@ -3200,7 +3199,7 @@ sacrificed something, and to stop because there
 might be danger would be cowardly.</q></p>
 
 <p><q>Oh, that's nonsense,</q> retorted <abbr>Mrs.</abbr> Mowatt.
-<q>I always say there are two sorts of fools--those
+<q>I always say there are two sorts of fools—those
 who are never anything else but foolish, and those
 who are fools by accident and continue to be so
 through obstinacy.</q></p>
@@ -3217,7 +3216,7 @@ reason why I should face it.</q></p>
 <p><abbr>Mrs.</abbr> Mowatt twisted her wedding ring and a
 tender, thoughtful look crept into her eyes. Her
 memory had gone back five-and-twenty years to
-the wreck of the East Indiaman <title>Cornwallis</title>, of which
+the wreck of the East Indiaman <name type="vessel" rend="i">Cornwallis</name>, of which
 Captain Henry Mowatt was the master. She had
 kepi the newspaper records of the time eulogising
 the heroism of her husband, who had gone down
@@ -3233,8 +3232,8 @@ wrong,</q> said she in a soft, almost humble tone.
 you all I can.</q></p>
 
 <p>She put out her hand between the curtains of
-the palanquin--the talk had taken place while the
-men were resting--Horsford grasped it warmly.
+the palanquin—the talk had taken place while the
+men were resting—Horsford grasped it warmly.
 He felt that if Nara were with this kindly woman
 she would be safe.</p>
 
@@ -3324,7 +3323,7 @@ dirt made one shudder.</p>
 anguish of the beggars who beset him, and their
 appeals on behalf of their starving families, and
 elbowed his way to the Delhi bank. He had two
-objects in calling at the bank--one was to report
+objects in calling at the bank—one was to report
 <pb n="93"/>
 to <abbr>Mr.</abbr> Mowatt the arrival of his mother, and the
 second to make known to him what <abbr>Mrs.</abbr> Mowatt
@@ -3337,7 +3336,7 @@ the lady, if indeed as much, and the risk and
 danger he was about to incur he kept to himself.
 The financial arrangement with the bank con-
 cluded satisfactorily, the next step was to write a
-letter to <abbr>Mrs.</abbr> Spicer--a somewhat difficult and
+letter to <abbr>Mrs.</abbr> Spicer—a somewhat difficult and
 delicate business. He discovered that the mail
 was going out that afternoon, and as the letter
 would want some thinking over Mowatt offered
@@ -3358,13 +3357,13 @@ to be consulted.</p>
 <p><q>I expect she won't like the girl being suddenly
 planted upon her, but what's to be done? After
 all, both the women were devoted to poor Jack, and
-for his sake they'll be drawn to the child. But--
+for his sake they'll be drawn to the child. But—
 that confounded marriage tie! There's the stum-
 bling-block. Poor Nara's royal blood won't go for
 much in the absence of the parson's formula. I
 mustn't let out the truth. The women must think
 <pb n="94"/>
-what they like. Think what they like--indeed,
+what they like. Think what they like—indeed,
 by Jove! they'd think a lot if they knew she'd been
 a dancing-girl.</q></p>
 
@@ -3372,7 +3371,7 @@ a dancing-girl.</q></p>
 his contemplated escapade got wind? Suppose it
 ended in disastrous failure? Suppose the sharp
 swords of the Rajah's warriors put an end to the
-whole business, himself included? Suppose----</p>
+whole business, himself included? Suppose——</p>
 
 <p><q>Bah! you idiot,</q> he muttered fiercely, <q>don't
 meet troubles half-way. You've got to do the
@@ -3393,7 +3392,7 @@ through the black mud and refuse. Never did
 Delhi seem to him more a city of violent contrasts
 than at that moment; he had but to lift his eyes
 from the offal of the roadway, the ragged, evil-
-looking swarms of budmash and the squalid
+looking swarms of <foreign xml:lang="hi" rend="roman">budmash</foreign> and the squalid
 shops, to see towering in front of him the majestic
 Jama Masjid, rosy red and dazzling white in the
 blazing sun.</p>
@@ -3452,11 +3451,11 @@ home?</q> asked Horsford.</p>
 has been to mine eyes as the rain after a drought.
 Seven years have gone since she left my roof. I
 thought her dead and the child too. The omens
-were bad--they have never been otherwise. The
+were bad—they have never been otherwise. The
 astrologer who cast the mother's nativity foretold
 woe. He was right. The Sahib Folliott was
 killed, and she took her own life. And the child
---ah, the child!</q></p>
+—ah, the child!</q></p>
 
 <p><q>Well, did he prophesy the truth about her?</q>
 asked Horsford ironically. <q>If he did he must
@@ -3504,15 +3503,15 @@ secret chambers, and what not, where deeds of
 vengeance could be enacted and no one outside
 be the wiser.</p>
 
-<p><q>I know what you mean--the slicing of eyes as
-though they were lemons--thrusting a bag of hot
+<p><q>I know what you mean—the slicing of eyes as
+though they were lemons—thrusting a bag of hot
 ashes over one's head and patting the back to
-make the victim take a good sniff--etc., etc.
+make the victim take a good sniff—etc., etc.
 I've heard of these diabolical ingenuities. Don't
 you be afraid, Kulloo Bux. I'll see that our
 people look after you. As for the Sahib being
 overcome, that's all moonshine. It's not the
-Sahib's way. And see--you'll put money in your
+Sahib's way. And see—you'll put money in your
 pocket. You'll not need to sell a single bag of
 grain for a whole year.</q></p>
 
@@ -3642,7 +3641,7 @@ sure of a harvest of some kind at fairs and festivals.</p>
 
 <div n="8" type="chapter">
 <pb n="101"/>
-<head type="num">Chapter VIII</head>
+<head type="num">Chapter <num type="cardinal" value="8">VIII</num></head>
 <head type="main">Sundra Bai, the <soCalled>Begum</soCalled></head>
 
 <p>Soon they were jolting on their way. Kulloo
@@ -3690,7 +3689,7 @@ a favourite of Shah Alum.</q></p>
 <p><q>The deuce she was,</q> growled Horsford. <q>Then
 I'll bet she learned something.</q></p>
 
-<p><q>I have heard tales--horribly wicked tales of
+<p><q>I have heard tales—horribly wicked tales of
 poisonings, of lingering deaths, of terrible torturings
 in those days in the Palace. I cannot speak of
 them to you, Sahib.</q></p>
@@ -3720,8 +3719,8 @@ and her infamous associate Hoosein Khan, what he
 had learned that night would have decided him.</p>
 
 <p><q>Yes, the <soCalled>Begum</soCalled> is a wicked woman, but not
-so wicked as Hoosein Khan--may dogs defile his
-grave! May he be accursed for ever! May----</q></p>
+so wicked as Hoosein Khan—may dogs defile his
+grave! May he be accursed for ever! May——</q></p>
 
 <p>Rage choked the woman's voice. Her sudden
 burst of anger sent her body quivering. Some
@@ -3743,7 +3742,7 @@ let come to harm. Zeenut Mehal knows all about
 Nara; that is why she is willing to pay a high price
 for her. For a common <foreign xml:lang="hi">tuwaif</foreign> she would give
 but a paltry sum. They can be had by the dozen.
-But Nara--you saw her dance, Sahib. Did you
+But Nara—you saw her dance, Sahib. Did you
 ever see one so graceful, so enchanting? Ah! she
 knows all the arts. The <soCalled>Begum</soCalled> taught her.</q></p>
 
@@ -3757,7 +3756,7 @@ in good plain Saxon, expressive enough to Azeena
 so far as sounds went, but otherwise unintelligible.</p>
 
 <p>Morning broke, and Kulloo Bux made a halt for
-breakfast at the usual resting place for travellers--
+breakfast at the usual resting place for travellers—
 a well. By this time fifteen miles had been covered.
 Meanwhile no conveyance coming towards Delhi
 had been encountered. All were going the other
@@ -3783,7 +3782,7 @@ gathering that streamed past him.</p>
 <p>A quarter of a mile or so from where he had
 left Azeena and her father he came upon a party
 encamped in the shade of a mango grove. Four
-<foreign xml:lang="hi">bahlees</foreign>--large, heavy, tilted, two-wheeled carts--
+<foreign xml:lang="hi">bahlees</foreign>—large, heavy, tilted, two-wheeled carts—
 had their yokes propped up by struts to keep the
 bodies of the vehicles level, and from behind the
 drawn curtains of three of the vehicles came
@@ -3793,8 +3792,8 @@ the laughter and chatter of women. The fourth
 were doing their best to feed on whatever green
 stuff they could find within the length of their
 tethers. A score or so of men were squatting
-round a savoury and substantial meal--a large
-dish of appetising <foreign xml:lang="hi">kabobs</foreign>--lumps of meat stuck
+round a savoury and substantial meal—a large
+dish of appetising <foreign xml:lang="hi">kabobs</foreign>—lumps of meat stuck
 on a skewer and roasted. Most of the men were
 native soldiers in the service of some prince or
 chief. Their spears and swords and shields were
@@ -3835,18 +3834,18 @@ had pledged themselves to gratify their wishes.
 Hoosein Khan lifted up his hands and his voice in
 bitter protest. In vain he cried out that he would
 be ruined; that some of the girls might never
-return--that Melás were full of dangers and at-
-tended by <foreign xml:lang="hi">goojurs</foreign> and all kinds of bad characters--
+return—that Melás were full of dangers and at-
+tended by <foreign xml:lang="hi">goojurs</foreign> and all kinds of bad characters—
 and in any case if he failed in his mission to Delhi
 it might be as much as his life was worth.</p>
 
 <p><q>What can hurt you by delay? Who is the
 enemy you fear?</q> asked the leader.</p>
 
-<p><q>I have told you--the Sahib who covets the pet
+<p><q>I have told you—the Sahib who covets the pet
 lamb of the flock,</q> screamed Hoosein Khan wildly.</p>
 
-<p><q>One man--and he now at Simla,</q> rejoined the
+<p><q>One man—and he now at Simla,</q> rejoined the
 warrior contemptuously.</p>
 
 <p><q>How know you that? You have not fought the
@@ -3862,9 +3861,9 @@ promise the matter. He offered to leave three of
 the most redoubtable of his warriors behind, and
 with this Hoosein Khan was forced to be content.
 But when he saw Nur Singh picked out the three
-oldest--men whose youthful fire had departed,
+oldest—men whose youthful fire had departed,
 and who had not attracted the admiration of any
-of the <foreign xml:lang="ar">houris</foreign> within the <foreign xml:lang="hi">bahlees</foreign>--his discontent
+of the <foreign xml:lang="ar">houris</foreign> within the <foreign xml:lang="hi">bahlees</foreign>—his discontent
 rose afresh. Nur Singh, enraged at the aspersions
 cast on his soldiers by a man of low origin, who
 <pb n="107"/>
@@ -3890,7 +3889,7 @@ cart, her head bent and her body swaying, was
 crooning the wild, plaintive melody Horsford had
 heard her play on the <foreign xml:lang="hi">saringhee</foreign>.</p>
 
-<p><q>Azeena--Azeena, she's found!</q> whispered
+<p><q>Azeena—Azeena, she's found!</q> whispered
 Horsford. <q>We needn't go a step further.</q></p>
 
 <p><q>Is my lord jesting with his servant?</q> cried
@@ -3914,7 +3913,7 @@ he is told. He has to give her every rupee he gets
 <pb n="108"/>
 for the dancing, and she pays him out of it. Old
 as she is, Sundra Bai is as strong and fierce as a
-tiger, but Hoosein Khan--no. He is a coward;
+tiger, but Hoosein Khan—no. He is a coward;
 he has the heart of a rabbit. You must be wary,
 Sahib. The <soCalled>Begum</soCalled> is crafty.</q></p>
 
@@ -3930,7 +3929,7 @@ be done until night.</q></p>
 
 <p><q>Ah, Sahib, I shall not sleep now that I know
 my dearest is near,</q> cried the woman excitedly.
-<q>I long to see her--to fold my arms about her.</q></p>
+<q>I long to see her—to fold my arms about her.</q></p>
 
 <p><q>You shall do that in good time, but you must
 be patient.</q></p>
@@ -3986,8 +3985,8 @@ that they were absorbed, and he hastened back to
 the <foreign xml:lang="hi">bahlee</foreign>. He cannoned against some one in the
 darkness. It was Azeena.</p>
 
-<p><q>Sahib--Sahib,</q> she whispered excitedly,
-<q>Sundra Bai is in the cart. She----</q></p>
+<p><q>Sahib—Sahib,</q> she whispered excitedly,
+<q>Sundra Bai is in the cart. She——</q></p>
 
 <p>Azeena stopped abruptly, and her finger went to
 her lips. Hoosein Khan's rasping voice was heard.</p>
@@ -4010,7 +4009,7 @@ seat on the yoke and was peering into the darkness.</p>
 said the supposed lame man.</p>
 
 <p><q>I know nothing about the Melá,</q> snarled
-Hoosein Khan. <q>I----</q></p>
+Hoosein Khan. <q>I——</q></p>
 
 <p>His words were cut short as though by a knife.
 A pair of long, sinewy hands, holding between them
@@ -4072,7 +4071,7 @@ drive his hardest to Delhi.</q></p>
 <p><q>And you, Sahib?</q></p>
 
 <p><q>If all goes well I may have time to join you.
-If not--well, I can look after myself.</q></p>
+If not—well, I can look after myself.</q></p>
 
 <p>Azeena, without a word, obeyed, and Horsford
 mounted the projecting ledge in front of the
@@ -4093,7 +4092,7 @@ head close to the girl's ear.</p>
 <p>She opened her eyes almost immediately.</p>
 
 <p><q>You know me, don't you? Do you remember
---at the Rajah's Palace? You fainted, and I
+—at the Rajah's Palace? You fainted, and I
 carried you to the verandah. I have come to take
 you from these wicked people. Azeena is waiting
 for you outside. You're quite safe if you keep
@@ -4168,12 +4167,12 @@ torch put the old woman on the <foreign xml:lang="fr">qui vive</foreign>. She
 jumped from the <foreign xml:lang="hi">bahlee</foreign> and with the matchlock
 <pb n="114"/>
 gun trailing after her came running, or rather
-waddling--for she was very fat--towards him,
+waddling—for she was very fat—towards him,
 shrieking as she ran. Horsford backed a couple of
 paces so as to keep the trunk of the mango between
 him and Sundra Bai's weapon and waited until
 the soldiers were within a dozen yards or so of
-where he was standing. Then--ping!--went his
+where he was standing. Then—ping!—went his
 heavy, double-barrelled pistol, pointed at their
 legs. Two of the men fell to the ground, the
 third, either amazed at what must have appeared
@@ -4211,7 +4210,7 @@ his pony as much for his own sake as for Nara's.</p>
 
 <div n="9" type="chapter">
 <pb n="115"/>
-<head type="num">Chapter IX</head>
+<head type="num">Chapter <num type="cardinal" value="9">IX</num></head>
 <head type="main"><q>I Want You</q></head>
 
 <p>Horsford did not climb into the cart but kept up
@@ -4248,18 +4247,18 @@ would betray him. Azeena, however, was quite
 mistress of the situation and knew how to talk
 to the servants. At the entrance to the com-
 pound Horsford stopped, and the child, shifting
-the scarf--she, like the ayah, was veiled--so that
+the scarf—she, like the ayah, was veiled—so that
 she could see him better, looked up into his face.
 From his height of six feet she seemed quite a dot.</p>
 
 <p><q>Are you not coming with me, Sahib?</q> said she
 timidly, in the soft, liquid tongue of her mother's race.</p>
 
-<p><q>No--I must change my clothes. As I look now
+<p><q>No—I must change my clothes. As I look now
 the <foreign xml:lang="hi">chokadars</foreign> won't believe I'm Sahib. When next
 you see me I shall be like your father in the picture.</q></p>
 
-<p><q>Oh, yes--yes, with the gold on your shoulders?</q>
+<p><q>Oh, yes—yes, with the gold on your shoulders?</q>
 she cried delightedly.</p>
 
 <p><q>Not quite that. You shall see me in my finery
@@ -4280,7 +4279,7 @@ at Horsford's words. She slid her little hand into his.</p>
 <p><q>You will come soon, Sahib, won't you? I
 shall be wretched till I see you.</q></p>
 
-<p><q>Yes--yes. I shan't be long away,</q> rejoined
+<p><q>Yes—yes. I shan't be long away,</q> rejoined
 Horsford hastily. He dared not tell her that she
 was to be sent away across the <soCalled>black water</soCalled> to
 England. It would be time enough for her to know
@@ -4340,9 +4339,9 @@ chances are that nothing will come of the affair.
 <foreign xml:lang="hi">Goojurs</foreign> by scores and <foreign xml:lang="hi">budmash</foreign> by hundreds always
 crowd to the Melás. Everybody knows that. I
 doubt if the thing will reach the magistrate's ears
---the natives are pretty certain to think it was an
+—the natives are pretty certain to think it was an
 affair of the ordinary professional thief. There's
-the <soCalled>Begum</soCalled> though--what will be her opinion?
+the <soCalled>Begum</soCalled> though—what will be her opinion?
 Did she see Azeena? No, she was asleep and snoring
 too, or she would have had that devilish long shooter
 of hers out in a jiffy. Whatever may be said of
@@ -4364,7 +4363,7 @@ how the child was secured?</q></p>
 air of surprise.</p>
 
 <pb n="119"/>
-<p><q>And--about Hoosein Khan?</q></p>
+<p><q>And—about Hoosein Khan?</q></p>
 
 <p><q>She said nought of him, Sahib.</q></p>
 
@@ -4399,7 +4398,7 @@ cumstances I can hardly tell them the story. If
 it hadn't been for Azeena's <foreign xml:lang="hi">roomal</foreign> I'd have
 found a soft corner in the official heart for poor
 Jack Folliott. But Hoosein Khan's dead body
-has sealed my lips--for the moment certainly. I
+has sealed my lips—for the moment certainly. I
 can't explain that without rounding on the woman.
 I must spin a yarn about <q>urgent private affairs.</q></q></p>
 
@@ -4430,8 +4429,8 @@ went on to say:</p>
 <p><q>I thought by finding you here that, in some
 wonderful fashion, you'd got to know that your
 application for service in Burma had been accepted.
-We've got the instructions--the usual pile of red
-tape papers--and there's an official letter for you.
+We've got the instructions—the usual pile of red
+tape papers—and there's an official letter for you.
 It would have been dispatched to Simla by special
 messenger to-day, but now that you're here we'll
 be saved the trouble.</q></p>
@@ -4475,8 +4474,8 @@ greatly distressed.</q></p>
 
 <p>Thus <abbr>Mrs.</abbr> Mowatt, running on without waiting
 for an answer. However she came back to what
-was the most important question--how had the
-girl been rescued?--a question which Horsford
+was the most important question—how had the
+girl been rescued?—a question which Horsford
 found some difficulty in answering. He had to
 do it by suppressing all reference to Hoosein Khan
 and the fight with the soldiers, and somehow he
@@ -4531,7 +4530,7 @@ shade until they received the order to start. As
 he traversed the pretty garden Azeena suddenly
 stole from behind a thicket and confronted him.</p>
 
-<p><q>Sahib--Sahib,</q> she whispered agitatedly, <q>you
+<p><q>Sahib—Sahib,</q> she whispered agitatedly, <q>you
 are in danger. Zeenut Mehal suspects. I have
 heard news from the Palace. The <soCalled>Begum</soCalled>
 arrived there with her girls, and the Queen was
@@ -4579,8 +4578,8 @@ impoverished himself considerably in doing it.</p>
 the bungalow. Five minutes later he was escorting
 the old lady and Nara, now in the orthodox flounces,
 the ribbons and the straw hat of the little English
-maiden. She looked pretty--nothing could spoil
-her charm--but she was not so picturesque. She
+maiden. She looked pretty—nothing could spoil
+her charm—but she was not so picturesque. She
 had not got used to the shoes with straps, and she
 walked very cautiously and quite without the old
 freedom. The girl's eyes were filled with tears.
@@ -4600,7 +4599,7 @@ returned.</p>
 <p>It was more probable they would never meet
 again, but how could he tell her this?</p>
 
-<p><q>When--when? I shall be wretched until you
+<p><q>When—when? I shall be wretched until you
 come.</q></p>
 
 <p><q>Oh, it will be a long time, but you mustn't be
@@ -4613,7 +4612,7 @@ she burst out tremulously.</p>
 <p><q>You must be patient. I shall see you again.
 Now you must go. Promise me not to grieve.</q></p>
 
-<p><q>I--I will try.</q></p>
+<p><q>I—I will try.</q></p>
 
 <p>The voice was choking, the head bowed so that
 the Sahib should not see her swimming eyes. He
@@ -4671,7 +4670,7 @@ parade and were breakfasting.</p>
 <p>Horsford went to the green baize-covered board
 and took the letter from the crossed tapes under
 which it had been stuck. The writing was un-
-mistakably a lady's--in the fifties women had
+mistakably a lady's—in the fifties women had
 not begun to write like men. The postmark was
 Simla. In a flash Nara's dark eyes vanished from
 his mental vision. He hesitated to open the letter.
@@ -4724,7 +4723,7 @@ brief space had come into his life and had vanished
 almost as quickly as she had appeared. In all
 likelihood he would never see her again. No,
 there was not any rivalry. Besides, had not Clare
-also gone out of his life? And then--he might
+also gone out of his life? And then—he might
 be destined to find his last resting place in Burma.</p>
 
 <p>Still he could not straighten out the thing to his
@@ -4765,7 +4764,7 @@ reached Calcutta.</p>
 better write and get it over, but what the deuce am
 I to say? Shall I take the olive branch Clare is
 holding out? If I do will things be as they were
-before we agreed to differ? And--what then?</q></p>
+before we agreed to differ? And—what then?</q></p>
 
 <p>A clock from within the bungalow struck. In
 half an hour the men would arrive with the palan-
@@ -4778,12 +4777,12 @@ write desperately.</p>
 
 <div n="10" type="chapter">
 <pb n="129"/>
-<head type="num">Chapter X</head>
+<head type="num">Chapter <num type="cardinal" value="10">X</num></head>
 <head type="main">The Die is Cast</head>
 
-<p><q>I can't wait--I <emph>won't</emph> wait--until it pleases Guy
-to write, and he may never write unless I---- Oh,
-it's horrid to think of--humbling oneself!--yet
+<p><q>I can't wait—I <emph>won't</emph> wait—until it pleases Guy
+to write, and he may never write unless I—— Oh,
+it's horrid to think of—humbling oneself!—yet
 what else is there to do?</q></p>
 
 <p>Clare Stanhope walked to the mirror on the
@@ -4795,7 +4794,7 @@ years older than I did a week ago. I believe I
 can see crowsfeet already. I wonder if I shall
 be ugly when I'm old?</q></p>
 
-<p>She laughed--a hard, mirthless laugh. Old?
+<p>She laughed—a hard, mirthless laugh. Old?
 What was the use of dwelling on such a prospect
 at her age, twenty-one on her last birthday?
 She had but just begun to live her life. She turned
@@ -4810,7 +4809,7 @@ answer in a fortnight. A letter should reach Guy
 in three or four days. If I address it to head-
 quarters he's bound to get it as soon as it arrives.
 <pb n="130"/>
-He'll reply by return--of course he will,</q> she
+He'll reply by return—of course he will,</q> she
 added emphatically, <q>and I shall have his letter
 well within the fortnight.</q></p>
 
@@ -4878,8 +4877,8 @@ shouldn't you make love? You ought to know
 something about it since you're so desirous of
 marrying Clare.</q></p>
 
-<p><q>That's true, but--but I don't know I've ever
-made love to Miss Stanhope--not in the ordinary
+<p><q>That's true, but—but I don't know I've ever
+made love to Miss Stanhope—not in the ordinary
 sense of the phrase. I'm afraid I should have a
 difficulty in telling her what my feelings are to-
 wards her,</q> returned Meldrum, with a constrained
@@ -4909,7 +4908,7 @@ to have men fussing round her.</q></p>
 <p>A look of uneasiness stole into Meldrum's hard
 face.</p>
 
-<p><q>I know--I know--and no man admires her
+<p><q>I know—I know—and no man admires her
 more than I do,</q> he returned, a little agitatedly.
 <q>Clare's the most beautiful woman I've ever seen.
 She's always amiable, and she has a thousand
@@ -4924,7 +4923,7 @@ from his cold exterior.</p>
 whether I'm doing the right thing in pushing this
 matter on,</q> mused the doctor. <q>One point's
 certain. Whoever Clare loves if she <emph>does</emph> love
-any one--it isn't Andrew Meldrum. For all that
+any one—it isn't Andrew Meldrum. For all that
 the marriage may turn out right. Clare's level-
 headed in spite of her apparent flightiness. Her
 self-interest ought to keep her on the right path,
@@ -4934,7 +4933,7 @@ runs counter to her husband's wishes. All de-
 pends upon how far Meldrum's willing to let her
 <pb n="133"/>
 have her own way. I can't do more than make
-her understand the kind of man she will marry--
+her understand the kind of man she will marry—
 that is, if she accepts him, and I guess she will.</q></p>
 
 <p>It looked as if Meldrum had heeded the doctor's
@@ -5013,7 +5012,7 @@ or sorry that she had missed seeing him.</p>
 
 <pb n="135"/>
 <p><q>We were wondering what had become of you,
-Miss Stanhope. General consternation--er----</q></p>
+Miss Stanhope. General consternation—er——</q></p>
 
 <p>She started. Lawton was speaking. <abbr>Mrs.</abbr>
 Parker-Thompson, anxious for the charade, had
@@ -5050,12 +5049,12 @@ lantly.</p>
 <p><q>H'm! what the stage has lost we've gained,
 anyhow,</q> chuckled Colonel Chowden. <q>Hang it,
 why you even inspired Lawton. He was really
-amusing--for once. Thanks to you.</q></p>
+amusing—for once. Thanks to you.</q></p>
 
 <p>Clare laughed, accepted graciously all the fine
 things that were said of her; danced every dance
-that followed the charade, flirted outrageously--
-at least this was the opinion of <abbr>Mrs.</abbr> Ormerod--and
+that followed the charade, flirted outrageously—
+at least this was the opinion of <abbr>Mrs.</abbr> Ormerod—and
 <pb n="136"/>
 apparently enjoyed herself to the utmost. It was
 nearly daylight when she and her uncle departed.</p>
@@ -5111,11 +5110,11 @@ ing her temples.</p>
 <p><q>Gone! Gone!</q> she murmured brokenly.
 She stared blankly at the letter on her lap. For
 the time being her brain was numbed. All she
-was conscious of was her loneliness--her wasted
+was conscious of was her loneliness—her wasted
 love.</p>
 
 <p>Horsford had written kindly, but not passion-
-ately--not like a lover. He was careful to explain
+ately—not like a lover. He was careful to explain
 that his application to be allowed to join the Bur-
 mese expedition had been made some time since,
 and that the answer had come unexpectedly.
@@ -5164,9 +5163,9 @@ manner, and after a few commonplaces and com-
 pliments to Clare on her success of the previous
 evening, he burst out with his news.</p>
 
-<p><q>Called on the Rajah this morning--found the
+<p><q>Called on the Rajah this morning—found the
 old boy awfully upset. A very awkward thing's
-happened--it's a mystery or romance or whatever
+happened—it's a mystery or romance or whatever
 you like to call it. You remember the night of the
 little Eurasian dancing-girl, don't you, doctor?</q></p>
 
@@ -5174,22 +5173,22 @@ little Eurasian dancing-girl, don't you, doctor?</q></p>
 
 <p><q>There was a dispute between Horsford and
 the scoundrelly old Mahommedan who managed
-the troupe--it turns out he wasn't the proprietor
-as we all thought at the time--and to settle the
+the troupe—it turns out he wasn't the proprietor
+as we all thought at the time—and to settle the
 matter the Rajah took charge of the girl. Now
 it appears that his Highness sent her to Delhi the
 <pb n="139"/>
-morning after the dinner-party--secretly so far
-as I can make out--together with the rest of the
+morning after the dinner-party—secretly so far
+as I can make out—together with the rest of the
 troupe, and the Rajah fearing an attack from some
-source--he didn't tell me <emph>what</emph> source--gave the
+source—he didn't tell me <emph>what</emph> source—gave the
 party an escort of his soldiers. Sure enough an
 attack <emph>was</emph> made, the girl was carried off, the old
 Mussulman disappeared, and three of the men
 were wounded. Now the point concerning us is
 that the Rajah suspects that an Englishman was
 connected with the abduction, and it looks to
-me as if there was going to be some trouble--I
+me as if there was going to be some trouble—I
 beg your pardon.</q></p>
 
 <p>Ormerod stopped and glanced at Clare as though
@@ -5210,7 +5209,7 @@ hold their tongues. I don't believe they're half
 so bad as men.</q></p>
 
 <p><q>Oh, when the secret concerns themselves,
-women can be as close as wax, but----</q></p>
+women can be as close as wax, but——</q></p>
 
 <p><q>I promise you I won't breathe a word. Uncle
 knows I can be trusted, don't you?</q></p>
@@ -5218,7 +5217,7 @@ knows I can be trusted, don't you?</q></p>
 <p>The doctor nodded, and at the same time gave
 a non-committal shrug of the shoulders.</p>
 
-<p><q>Very well, what I was going to say is this--
+<p><q>Very well, what I was going to say is this—
 the Rajah suspects that in some way Captain
 Horsford was mixed up in the abduction. The
 <pb n="140"/>
@@ -5242,9 +5241,9 @@ ance of the old man, Hoosein Khan. It's feared
 he's been done away with.</q></p>
 
 <p><q>And does the Rajah accuse Horsford of
-murder--I suppose that's what it comes to, eh?</q></p>
+murder—I suppose that's what it comes to, eh?</q></p>
 
-<p><q>He makes no accusation--he's far too cautious,
+<p><q>He makes no accusation—he's far too cautious,
 but when the thing's sifted you don't know what
 may come out. But for Heaven's sake don't
 breathe a word. I'm not sure it wouldn't be as
@@ -5324,7 +5323,7 @@ whiffs Clare had quitted the room. <abbr>Dr.</abbr> Stanhope
 did not trouble to give the gossiping Major any
 explanation. He preferred to wait events. If
 Clare accepted Meldrum, Ormerod might as well
-hear the news--it would not be the Major's fault
+hear the news—it would not be the Major's fault
 if half Simla did not hear of the engagement
 within the next twenty-four hours.</p>
 
@@ -5357,9 +5356,9 @@ wedding day.</q></p>
 <p><abbr>Dr.</abbr> Stanhope grasped Meldrum's outstretched
 hand.</p>
 
-<p><q>I'm very--very glad,</q> said he. Then to
+<p><q>I'm very—very glad,</q> said he. Then to
 himself he grunted, <q>I hope it'll turn out for
-the best. But----</q></p>
+the best. But——</q></p>
 
 <p>The doctor completed the sentence with a shrug
 of his shoulders.</p>
@@ -5419,7 +5418,7 @@ toms,</q> grunted Colonel Chowden, when the smoke-
 room conversation began to pall. <q>In England
 we have to do all the work ourselves if we want
 amusement. The natives here pay somebody
-else to amuse them--in this confoundedly lazy
+else to amuse them—in this confoundedly lazy
 climate a far more sensible plan. If the doctor
 was a rajah or a zemindar, he'd have engaged a
 batch of big-eyed dancing-girls. We're all of us
@@ -5430,7 +5429,7 @@ had something to say, doctor, if you'd given us an
 entertainment of that sort?</q></p>
 
 <p><q>My dear Colonel, there's already <emph>been</emph> one
-scandal--or the whisper of a scandal--concerning
+scandal—or the whisper of a scandal—concerning
 a dancing-girl, and we don't want another,</q> said
 the doctor.</p>
 
@@ -5439,7 +5438,7 @@ Guy Horsford made himself such an ass over the
 girl just because she was an Eurasian? By Jove,
 our fellows would have enough to do if they fol-
 lowed Horsford's example. What do you think
-I heard----</q></p>
+I heard——</q></p>
 
 <p><q>The less said about the business the better,
 Colonel,</q> interposed the doctor quietly. <q>We're
@@ -5464,7 +5463,7 @@ ponder over.</p>
 
 <div n="11" type="chapter">
 <pb n="146"/>
-<head type="num">Chapter XI</head>
+<head type="num">Chapter <num type="cardinal" value="11">XI</num></head>
 <head type="main">An Unwelcome Responsibility</head>
 
 <p><q>We shall have to do something for her, Sophia,</q>
@@ -5716,7 +5715,7 @@ glasses. Aunt Sophia was the first to speak.</p>
 <p><q>How do you do, my dear?</q> was her greeting
 in rather a high-pitched voice.</p>
 
-<p><q>Quite well, thank you--aunt.</q></p>
+<p><q>Quite well, thank you—aunt.</q></p>
 
 <p><abbr>Mrs.</abbr> Mowatt, during the long voyage, had care-
 fully tutored the girl in English generally and
@@ -5758,7 +5757,7 @@ the lady decided that her superfluous niece was
 likely to be an endless source of trouble.</p>
 
 <p><q>And haven't you anything to tell us about
-your voyage, or--about your father?</q> asked <abbr>Mrs.</abbr>
+your voyage, or—about your father?</q> asked <abbr>Mrs.</abbr>
 Brampton, after an embarrassing silence.</p>
 
 <p>Nara could have given her aunt plenty of in-
@@ -5860,12 +5859,12 @@ weeping.</p>
 
 <p><q>Take Nara with you. I will be your servant
 <pb n="156"/>
---your slave. I love not your England. It is
-cold and dark--and--and I do not like these ladies.
+—your slave. I love not your England. It is
+cold and dark—and—and I do not like these ladies.
 You said they would be like my dear father. They
-are not. Let me go back to my own country--
+are not. Let me go back to my own country—
 to my own dress. I want to see Sahib Horsford
-again. He was kind--he--he----</q></p>
+again. He was kind—he—he——</q></p>
 
 <p>Her words ended in a convulsive sob. <abbr>Mrs.</abbr>
 Mowatt soothed her as best she could and was
@@ -5885,7 +5884,7 @@ was she? What was she? Where was she married
 to Jack Folliott? How came Captain Horsford to
 have Nara in his charge? Who had the custody
 of the girl before Horsford appeared upon the
-scene?--and a dozen other questions equally
+scene?—and a dozen other questions equally
 searching and equally awkward to answer.</p>
 
 <p><abbr>Mrs.</abbr> Mowatt adroitly sheltered herself behind
@@ -6017,7 +6016,7 @@ view to reduce expenses, and to train her in the
 path she was to follow.</p>
 
 <p><q>That's an excellent notion,</q> exclaimed <abbr>Mrs.</abbr>
-Spicer. <q>The child's wonderfully sharp--almost
+Spicer. <q>The child's wonderfully sharp—almost
 too sharp. It's amazing how she's picked up
 <pb n="160"/>
 English. The worst of it is she doesn't know
@@ -6083,8 +6082,8 @@ else. Nara had borne in mind <abbr>Mrs.</abbr> Mowatt's
 repeated cautions to keep her experience as a
 dancing-girl to herself, and she only once betrayed
 what had been her calling. This happened one
-evening when she was about to go to bed--she
-slept in Davis's room--and a German band was
+evening when she was about to go to bed—she
+slept in Davis's room—and a German band was
 playing some sentimental air of the Fatherland.
 There may have been in the melody a phrase
 which suggested recollections of Azeena's <foreign rend="roman" xml:lang="hi">saringhee</foreign>
@@ -6124,7 +6123,7 @@ ploringly.</p>
 <p><q>That I danced. The Sahib might hear of it,
 and he would be angry.</q></p>
 
-<p><q>Sahib--what Sahib?</q> asked the puzzled
+<p><q>Sahib—what Sahib?</q> asked the puzzled
 Davis.</p>
 
 <p>Nara shook her head and put her forefinger on
@@ -6161,7 +6160,7 @@ present generation may remember.</p>
 
 <div n="12" type="chapter">
 <pb n="164"/>
-<head type="num">Chapter XII</head>
+<head type="num">Chapter <num type="cardinal" value="12">XII</num></head>
 <head type="main">Nara's Rebellion</head>
 
 <p><q>I really don't know what's to be done with
@@ -6170,7 +6169,7 @@ been spent upon your education, to find that
 you're incapable of doing anything to earn your
 own living. In the face of <abbr>Mrs.</abbr> Granger's letter
 I can't see I'm called upon to help you any further.
-Of course I can't turn you out of doors, but--
+Of course I can't turn you out of doors, but—
 well, I'm in despair. I daren't ask the General
 to assist me. He was always strongly opposed to
 my recognising you as my niece. He says you
@@ -6194,8 +6193,8 @@ distinction being that they were bought at the
 <p><abbr>Mrs.</abbr> Brampton had seen very little of Nara
 during the last five years. The girl spent the
 summer vacation at the school, as the General
-and his wife generally went on the Continent--to
-Boulogne preferably on account of its cheapness--
+and his wife generally went on the Continent—to
+Boulogne preferably on account of its cheapness—
 leaving the servants on board wages, the best
 rooms denuded of carpets and curtains, the crystal
 chandeliers and the furniture swathed in brown
@@ -6206,9 +6205,9 @@ drawn down.</p>
 holidays in Portman Square, but she was always
 glad to get back to the school, comfortless though
 it was. The haughty condescension of <abbr>Mrs.</abbr>
-Brampton, the ostracism of the General--only
+Brampton, the ostracism of the General—only
 by accident did she ever see him, and he invariably
-ignored her--the sense that she was an interloper,
+ignored her—the sense that she was an interloper,
 wounded her proud spirit beyond measure, but
 with the patience and resignation which belong to
 one phase of the Eastern nature she showed no
@@ -6272,8 +6271,8 @@ Horsford had indeed written to <abbr>Mrs.</abbr> Mowatt
 for news of his <foreign rend="roman" xml:lang="fr">protégée</foreign>, and before the lady replied
 she determined to call at the school. All, however,
 that <abbr>Mrs.</abbr> Mowatt could tell Nara about Horsford
-was that he was still in India--to good <abbr>Mrs.</abbr> Mowatt
-Burma <emph>was</emph> India--and that she was to send him
+was that he was still in India—to good <abbr>Mrs.</abbr> Mowatt
+Burma <emph>was</emph> India—and that she was to send him
 word whether she found Nara well and happy.
 She added that Horsford mentioned that he con-
 templated coming to Calcutta, where he would
@@ -6283,16 +6282,16 @@ probably remain some time.</p>
 girl. She pondered over what <abbr>Mrs.</abbr> Mowatt had
 told her. She never slept that night. The one
 craving of her soul must be satisfied, but how it
-was to be done--how she was to reach the land
-of her birth, where was the man she hungered for--
+was to be done—how she was to reach the land
+of her birth, where was the man she hungered for—
 she did not know nor did she trouble. She felt sure
 she would find a way. The next morning she was
 missing, and she presented herself to her aunt,
 indifferent to remonstrances and upbraidings.</p>
 
 <p><q>So far as I can see all you can do is to dress
-hair--<abbr>Mrs.</abbr> Granger says something about that in
-her letter--also that you're skilful in embroider-
+hair—<abbr>Mrs.</abbr> Granger says something about that in
+her letter—also that you're skilful in embroider-
 ing and other fancy-work. These seem really to be
 the qualifications for a lady's maid. Is it your
 intention to seek a post of that kind?</q> inquired
@@ -6328,12 +6327,12 @@ with the rest of the girls.</p>
 on Aunt Lavinia acidly. <q>Is the theatre your
 aim?</q></p>
 
-<p><q>No--no--no. I want nothing except to go
+<p><q>No—no—no. I want nothing except to go
 back to my own country,</q> cried Nara, for the first
 time a little agitated.</p>
 
 <p><q>Oh, well, it would be the best thing, no doubt,
-but----</q> <abbr>Mrs.</abbr> Brampton stopped. There came
+but——</q> <abbr>Mrs.</abbr> Brampton stopped. There came
 a tap at the door, and a servant entered, bearing a
 salver with a card.</p>
 
@@ -6355,10 +6354,10 @@ is shockingly short, but I couldn't help myself.
 <abbr>Mrs.</abbr> Meldrum's returning to India this week, and
 to-morrow's the only evening she has to spare. I
 do so want you to meet her. She's tremendously
-rich--married Andrew Meldrum, who made a big
+rich—married Andrew Meldrum, who made a big
 fortune in indigo or cotton or something. They
 were married before I left Simla. I was at the
-wedding--everything most <foreign xml:lang="fr">recherché</foreign>. She was
+wedding—everything most <foreign xml:lang="fr">recherché</foreign>. She was
 one of the prettiest girls in Simla, and excepting
 that her figure's more set and she's a little stouter
 I don't see much difference. Now you must come.
@@ -6387,7 +6386,7 @@ tell the truth, they weren't well matched; she
 must be at least five-and-twenty years younger
 than her husband.</q></p>
 
-<p><q>I hope there was no--ahem--scandal,</q> said
+<p><q>I hope there was no—ahem—scandal,</q> said
 <abbr>Mrs.</abbr> Brampton, wrinkling her brows.</p>
 
 <p><q>Oh, dear no, not the slightest. I should
@@ -6397,7 +6396,7 @@ kind.</q></p>
 
 <p><q>I'm very glad. I was constantly hearing of
 such dreadful things when I was in India. The
-deception one met with was shocking--women
+deception one met with was shocking—women
 passing themselves off as respectable when all
 the while they were anything but what they ought
 to be. I had to be most particular, and I'm glad
@@ -6423,7 +6422,7 @@ off old scores, and she was too sharp and too spiteful
 to let the chance slip.</p>
 
 <p><q>Talking of scandals, what has become of your
-niece--poor Captain Folliott's daughter? Guy
+niece—poor Captain Folliott's daughter? Guy
 <pb n="171"/>
 Horsford shipped her to England for you to take
 care of, didn't he?</q></p>
@@ -6436,8 +6435,8 @@ denied. But to speak of her as being <soCalled>shipped</soCalled>
 as though she were a bale of bandanas or a case
 of curry-powder! It was annoying enough to
 be aunt to an Eurasian, but to have the fact
-known in Simla and be gossiped about--Captain
-Horsford must have been terribly indiscreet--was
+known in Simla and be gossiped about—Captain
+Horsford must have been terribly indiscreet—was
 inexpressibly galling.</p>
 
 <p><q>I beg your pardon, <abbr>Mrs.</abbr> Ormerod,</q> said she
@@ -6475,16 +6474,16 @@ word <q>scandal.</q> <q>Yes, no doubt. I should
 like to hear the nature of the rumour you refer
 to, so that I may give it an emphatic denial.</q></p>
 
-<p><q>There's nothing really <emph>very</emph> bad--that is, to
+<p><q>There's nothing really <emph>very</emph> bad—that is, to
 those who know what things in India are like. And
 I don't think it can be said that the rumour's
 been widely circulated. The truth is the matter
-was hushed up--for some reason concerning Cap-
+was hushed up—for some reason concerning Cap-
 tain Horsford, I believe. It's a pity the story
 wasn't told openly. People are always ready
 to imagine things, aren't they? <emph>I</emph> happen to be
 acquainted with the details because the Major
-told me--under a bond of secrecy, of course. But
+told me—under a bond of secrecy, of course. But
 really here in England I don't see why the same
 secrecy should be observed. I think if you don't
 know the version of the affair that's been whispered
@@ -6527,7 +6526,7 @@ Brampton's mind that if some of Nara's early in-
 stincts and training could be revived after lying
 dormant for some five years there was no reason
 why others should not burst out. Those dreamy
-eyes--oh, they were not given to the girl for
+eyes—oh, they were not given to the girl for
 nothing.</p>
 
 <p>One point <abbr>Mrs.</abbr> Ormerod had left unsettled.
@@ -6564,7 +6563,7 @@ from him since.</q></p>
 and did not want to distress you. There's only
 one place where a Church of England marriage
 could take place in Delhi, and that is old Colonel
-Skinner's church--St. James', you know. Of
+Skinner's church—St. James', you know. Of
 course a register of some kind is kept, and the
 Resident could have consulted it. I dare say he
 did and found no record. Not likely he would.
@@ -6577,10 +6576,10 @@ ton, aghast.</p>
 
 <p><q>So George told me. I can't think there was
 any marriage according to our religion. And as
-for hers--well, that was impossible unless Captain
+for hers—well, that was impossible unless Captain
 Folliott became a Mahommedan.</q></p>
 
-<p><q>Oh, <abbr>Mrs.</abbr> Ormerod----</q> gasped <abbr>Mrs.</abbr> Bramp-
+<p><q>Oh, <abbr>Mrs.</abbr> Ormerod——</q> gasped <abbr>Mrs.</abbr> Bramp-
 ton faintly. <q>Don't!</q></p>
 
 <p><abbr>Mrs.</abbr> Ormerod was satisfied. She had taken
@@ -6714,7 +6713,7 @@ questions Nara was dismissed.</p>
 <p><q>Well, what do you think of her?</q> said <abbr>Mrs.</abbr>
 Brampton.</p>
 
-<p><q>She's very handsome--strikingly so. You'll
+<p><q>She's very handsome—strikingly so. You'll
 have to be very careful where men are concerned,</q>
 was <abbr>Mrs.</abbr> Ormerod's opinion.</p>
 
@@ -6727,7 +6726,7 @@ while he's here on any account.</q></p>
 <p><q>Certainly not. She's just the girl a lad would
 go mad over. Besides, the position of cousins is
 a dangerous sort of relationship. It permits a
-certain amount of familiarity which----</q></p>
+certain amount of familiarity which——</q></p>
 
 <p><q>Edgar doesn't know she's his cousin,</q> hastily
 interposed <abbr>Mrs.</abbr> Brampton, reddening slightly. <q>I
@@ -6741,7 +6740,7 @@ before the world.</q></p>
 
 <p><q>Does she know that you're her aunt?</q></p>
 
-<p><q>Yes--thanks to Captain Horsford's unpar-
+<p><q>Yes—thanks to Captain Horsford's unpar-
 donable presumption. This makes it all the more
 imperative that she and my boy shouldn't meet.
 Now, can you suggest anything? Of course she
@@ -6765,7 +6764,7 @@ to engage her where there are grown-up sons. A
 mother is bound to be very careful about the
 young women she has to live in the house.</q></p>
 
-<p><q>Of course--of course. You heard what she
+<p><q>Of course—of course. You heard what she
 said about her needlework, and her skill in dress-
 ing hair? Well now, I've been thinking that she
 might go as lady's-maid. Her manners are quiet
@@ -6795,10 +6794,10 @@ exclaimed <abbr>Mrs.</abbr> Brampton, with a sigh of relief.</p>
 
 <p><q>Clare's return to India was unexpected. She
 <pb n="180"/>
-mayn't have engaged any maid. This girl--what
+mayn't have engaged any maid. This girl—what
 did you call her?</q></p>
 
-<p><q>Nara--Captain Horsford wrote some rubbish
+<p><q>Nara—Captain Horsford wrote some rubbish
 about her being descended from Jahanara, one of the
 princesses of Delhi two hundred years or so ago.
 Whether this is true or no doesn't matter now.
@@ -6807,7 +6806,7 @@ Nara must only be known as my <foreign rend="roman" xml:lang="fr">protégée</fo
 no account should <abbr>Mrs.</abbr> Meldrum be told Captain
 Horsford's story.</q></p>
 
-<p><q>You may trust me--implicitly. I quite under-
+<p><q>You may trust me—implicitly. I quite under-
 stand your delicate and painful position. But
 won't it be necessary to caution Nara herself?</q></p>
 
@@ -6819,7 +6818,7 @@ influence of her mother's race is far too strong.</q></p>
 <p><q>Very well. I shall be meeting <abbr>Mrs.</abbr> Meldrum
 to-night, and I'll sound her on the subject.</q></p>
 
-<p><q>Thank you--thank you. You can't think how
+<p><q>Thank you—thank you. You can't think how
 grateful I shall be if you can settle the affair
 satisfactorily. When I see a favourable oppor-
 tunity of talking to the General about the little
@@ -6843,7 +6842,7 @@ further difficulty.</p>
 
 <div n="13" type="chapter">
 <pb n="181"/>
-<head type="num">Chapter XIII</head>
+<head type="num">Chapter <num type="cardinal" value="13">XIII</num></head>
 <head type="main">Andrew Meldrum's Letter</head>
 
 <p><abbr>Mrs.</abbr> Ormerod, anxious to oblige the General's
@@ -6977,8 +6976,8 @@ brush aside questions on <emph>that</emph> subject, but not those
 relating to <emph>you</emph>. Our friends are beginning to
 talk about your being away so long, and I don't
 know what to say. You went to Europe eighteen
-months ago on account of your health--so you
-said--but in the letters you have sent at very rare
+months ago on account of your health—so you
+said—but in the letters you have sent at very rare
 intervals you say nothing concerning yourself.
 I was anxious about you and asked your uncle to
 tell me if he thought there was anything radically
@@ -7042,7 +7041,7 @@ than continual nagging and chafing under restraint.
 What complaint have I against him? Why, if
 he were not so stony and unimaginative he would
 see at once. My complaint is that he is Andrew
-Meldrum and--I'm a well-dressed doll! What did
+Meldrum and—I'm a well-dressed doll! What did
 he expect? It might have been worse. He might
 have married a doll who was <emph>not</emph> well-dressed.</q></p>
 
@@ -7103,7 +7102,7 @@ dandified and vicious Lawton, whom she detested.
 The inevitable happened when she could not pay.
 <pb n="188"/>
 On Lawton's advances being rejected, he threa-
-tened her not with blackmail, but with revenge--
+tened her not with blackmail, but with revenge—
 exposure of her recklessness to her husband.</p>
 
 <p>She would not have cared for his threat had it
@@ -7218,7 +7217,7 @@ of governing India on European principles that
 Oudh began to be discontented. Why couldn't
 Oudh be treated as Delhi was some fifty years ago?
 <pb n="191"/>
-Bahadah Shah is still a King--without much
+Bahadah Shah is still a King—without much
 power, it is true, but what does that matter?
 Sentiment is preserved, and that's everything in
 India. Anyhow, the policy's worked well hitherto,
@@ -7246,7 +7245,7 @@ almost alarming.</q></p>
 
 <p><q>I quite agree with you, sir,</q> said Ormerod.
 <q>If we escape a row in Delhi we shall be lucky,
-and as usual it will be the woman in the case--I
+and as usual it will be the woman in the case—I
 beg your pardon, ladies,</q> broke off the Major,
 with an apologetic bow to Clare.</p>
 
@@ -7294,9 +7293,9 @@ everywhere, and especially in the Deccan and
 Persia, to foster a hostile feeling against England.
 And that's not the worst of it. It's pretty certain
 she's joined hands with Seereek Dhundoo Punth,
-old Bajee Rao's adopted son--I believe in Cawn-
+old Bajee Rao's adopted son—I believe in Cawn-
 <pb n="193"/>
-pore he's known as Nana Sahib--who wants the
+pore he's known as Nana Sahib—who wants the
 pension of £80,000 a year the Company granted
 Bajee Rao when they deposed him. He was
 Peishwa of Poonah, you know.</q></p>
@@ -7309,8 +7308,8 @@ of Poonah, but because I believe him to be sly
 and revengeful. I've heard he's frightfully savage
 at the Company's refusal, and if Zeenut Mehal
 joins her craft with his discontent they may
-succeed in stirring up--I don't say rebellion, our
-hold over the sepoys is too strong for <emph>that</emph>--but
+succeed in stirring up—I don't say rebellion, our
+hold over the sepoys is too strong for <emph>that</emph>—but
 trouble. I tell you what, sir, the man who's
 most wanted in Delhi just now is Guy Horsford.
 He speaks half a dozen dialects and knows Delhi
@@ -7344,7 +7343,7 @@ brickdust hue, and he spluttered out:</p>
 <p><q>He'd better stop in Burma. I don't believe
 in these fellows who are said to be indispensable.
 I've seen something of 'em; more conceit than
-work--that's <emph>my</emph> experience. What's he going to
+work—that's <emph>my</emph> experience. What's he going to
 do in Calcutta?</q></p>
 
 <p><q>It's some post connected with re-organisation.
@@ -7394,7 +7393,7 @@ the girl's services.</p>
 
 <p><q>That's most kind of you,</q> returned <abbr>Mrs.</abbr>
 Brampton gratefully. <q>But you haven't seen the
-girl. Would you care to call on me and----</q></p>
+girl. Would you care to call on me and——</q></p>
 
 <p><q>Oh, I don't think that matters,</q> interrupted
 Clare. <q>She can come to me to-morrow and
@@ -7408,7 +7407,7 @@ than I expected.</q></p>
 
 <div n="14" type="chapter">
 <pb n="196"/>
-<head type="num">Chapter XIV</head>
+<head type="num">Chapter <num type="cardinal" value="14">XIV</num></head>
 <head type="main">Farewell to the West</head>
 
 <p><abbr>Mrs.</abbr> Brampton was delighted that the trouble-
@@ -7449,7 +7448,7 @@ many years, and your future will be quite safe.</q></p>
 times and with hopelessness. England to her was
 so black and drear, so prim and artificial. She
 pined for her own land, for its warmth, its gorgeous
-colours, its picturesqueness and poetry, and--she
+colours, its picturesqueness and poetry, and—she
 pined for the handsome Englishman who had
 risked his life to rescue her from shame and cruelty.
 She had often tried to picture his face, she had
@@ -7464,7 +7463,7 @@ the wish of her heart. That would be happiness.</p>
 seated in a stuffy, noisy, jolting <soCalled>growler,</soCalled> its
 floor strewn with ill-smelling, soddened straw.
 To her the cab was typical of London as she always
-seemed to have seen it--sordid, mean, comfort-
+seemed to have seen it—sordid, mean, comfort-
 less, ugly, depressing. The air outside was murky;
 a cold drizzle was falling. The bumping of the
 cab on the uneven granite cubes of the roadway
@@ -7491,8 +7490,8 @@ second curiosity was aroused, to be followed by a
 feeling of antagonism, so slight and so subtle that
 neither could say she was conscious of it.</p>
 
-<p>Clare's reasons for hostility--if her feelings
-could be so crystallised--were fairly easy to define.
+<p>Clare's reasons for hostility—if her feelings
+could be so crystallised—were fairly easy to define.
 She expected the average Eurasian fairer, pos-
 sibly, than the pure-blooded native, and with the
 subdued, furtive look characteristic of the half-
@@ -7517,7 +7516,7 @@ What is it?</q></p>
 
 <pb n="199"/>
 <p>An Englishwoman who had never been in India
-would probably have asked <q>Nara--what?</q> Not
+would probably have asked <q>Nara—what?</q> Not
 so Clare; she had never troubled about the names
 of natives, and to her it did not matter whether a
 man or a woman was called by one or half a dozen.</p>
@@ -7527,7 +7526,7 @@ man or a woman was called by one or half a dozen.</p>
 knows you're coming, and she'll instruct you in your
 duties. I'm told you haven't had much experience.</q></p>
 
-<p><q>No----</q> Then suddenly remembering her
+<p><q>No——</q> Then suddenly remembering her
 aunt's admonitions, she added hastily the word
 <q>Ma'am.</q></p>
 
@@ -7570,7 +7569,7 @@ difficult to please than usual. She and Fifine had
 long, anxious conferences over the selection of a
 dress, and almost got to high words. At last the
 important matter was settled, arid then came
-another matter of even greater gravity--the dress-
+another matter of even greater gravity—the dress-
 ing of the hair. Dressing hair was the one accom-
 plishment in which Fifine did not shine. She was
 deft in dressmaking and millinery, for her youth
@@ -7633,7 +7632,8 @@ father, was looked down upon by the other girls,
 and put to wait upon them. In this way she
 became expert in the art of hairdressing, and her
 fingers had never lost their dexterity. To handle
-Clare's soft, luxuriant, golden tresses was a supreme<pb n="202"/>
+Clare's soft, luxuriant, golden tresses was a supreme
+<pb n="202"/>
 pleasure. They lent themselves to manipulation
 beneath her deft touch much readier than the
 harsh, black locks of the girls of India. As the
@@ -7719,7 +7719,7 @@ go to Delhi the nearest way. I know that in
 Simla Clare was an outrageous flirt, and it was
 whispered that Guy Horsford, who never took
 much notice of girls, was quite smitten. But that's
-five years ago and--since then Clare's married.</q></p>
+five years ago and—since then Clare's married.</q></p>
 
 <p>The two ladies exchanged significant glances.
 Nowadays one would have said a process of tele-
@@ -7735,7 +7735,7 @@ so curious.</q></p>
 <p>Again an exchange of glances.</p>
 
 <p><q>Surely there can't be any connection between
-the two things--I mean that <abbr>Mrs.</abbr> Meldrum and
+the two things—I mean that <abbr>Mrs.</abbr> Meldrum and
 Colonel Horsford should both be going to Calcutta.</q></p>
 
 <p><q>Oh, I don't think that for a moment,</q> re-
@@ -7745,7 +7745,7 @@ would have said at once that this was what she
 <emph>had</emph> been thinking, and not only for a moment but
 ever since she had read Mary Chowden's letter.</p>
 
-<p><q>Still--one never knows,</q> she continued. <q>It
+<p><q>Still—one never knows,</q> she continued. <q>It
 was always a mystery why Clare and her husband
 did not get on well together. The reason never
 oozed out, and the secrecy both observed was in
@@ -7763,10 +7763,10 @@ of more immediate interest.</p>
 
 <div n="15" type="chapter">
 <pb n="205"/>
-<head type="num">Chapter XV</head>
+<head type="num">Chapter <num type="cardinal" value="15">XV</num></head>
 <head type="main">Mistress and Maid</head>
 
-<p>The steamer <title>Indus</title> was slowly making its way up
+<p>The steamer <name type="vessel" rend="i">Indus</name> was slowly making its way up
 the Hooghly. It was sunset and the passengers
 crowded to the side of the vessel to admire the
 gorgeous colouring of the western sky. To the
@@ -7774,10 +7774,10 @@ north-east Fort William, opposite which the vessel
 would shortly be moored, loomed sombre and
 grey, save where the walls caught the glory of the
 sinking sun. Those whose eyes for the first time
-lighted upon a Calcutta sunset--one of the few
-picturesque pictures the city presents--were loudly
+lighted upon a Calcutta sunset—one of the few
+picturesque pictures the city presents—were loudly
 expressing their admiration. But two of the
-gazers were silent--Clare and Nara.</p>
+gazers were silent—Clare and Nara.</p>
 
 <p>Nara, leaning her elbows on the taffrail and
 cradling her chin in her hands, her eyes dilated,
@@ -7812,7 +7812,7 @@ kind enough to gratify her, she might even return
 to her husband, and, outwardly at least, allow
 herself to be reconciled.</p>
 
-<p><q>A word--a look will do that,</q> she told herself
+<p><q>A word—a look will do that,</q> she told herself
 scornfully.</p>
 
 <p>Caprice or not, here she was at Calcutta, and if
@@ -7889,18 +7889,18 @@ becoming almost offensive in their behaviour to-
 wards their masters and mistresses. I certainly
 shan't endure any insulting conduct from Nara.
 Just to punish her I won't take her to Delhi with
-me--that is,</q> she added hastily, <q>if I <emph>do</emph> go. It
+me—that is,</q> she added hastily, <q>if I <emph>do</emph> go. It
 was all very well on board the steamer to have a
-maid who looks half English--and even then the
-thing wasn't without embarrassment--but in India
---well, I don't want to be mixed up in any scandal.
+maid who looks half English—and even then the
+thing wasn't without embarrassment—but in India
+—well, I don't want to be mixed up in any scandal.
 It's a great mistake when girls in a low class of
 life have pretty faces. It would be much better
 for themselves and for other people if they were
 born plain and grew up ugly.</q></p>
 
 <p>It was certainly true that the captain of the
-<title>Indus</title> had asked <abbr>Mrs.</abbr> Meldrum to keep an eye on
+<name type="vessel" rend="i">Indus</name> had asked <abbr>Mrs.</abbr> Meldrum to keep an eye on
 her handsome maid. He had not a word, he told
 Clare, to say against the girl, who was as quiet and
 as well-behaved as a lady, but she could not pre-
@@ -7920,8 +7920,8 @@ of the girl's Asiatic descent. This evidence was
 difficult to define. It might have been something
 in the free and graceful carriage of the figure, it
 might have been the steadfast, wistful look in the
-shining, dark eyes--such a look as one sees in the
-eyes of a faithful dog--nobody could say exactly
+shining, dark eyes—such a look as one sees in the
+eyes of a faithful dog—nobody could say exactly
 what it was, but all were conscious of it, especially
 the men, who in the unfettered smoking-room
 often discussed Clare and her attractive ayah.</p>
@@ -7958,7 +7958,7 @@ it will be for you. No doubt <abbr>Mrs.</abbr> Brampton was
 very indulgent, but you mustn't expect in India
 to be as you were in England.</q></p>
 
-<p><q>I don't expect it--but--but--I should like to
+<p><q>I don't expect it—but—but—I should like to
 look like an English girl a little longer.</q></p>
 
 <p><q>Why?</q></p>
@@ -8024,9 +8024,9 @@ and this could not be done so well in the fashionable
 shops patronised by European ladies as in the
 bazaars of the native quarter. Her motive for
 retaining her English attire was both definite and
-romantic. She understood perfectly well--<abbr>Mrs.</abbr>
+romantic. She understood perfectly well—<abbr>Mrs.</abbr>
 Mowatt had indeed taken considerable trouble to
-impress it on her mind--that Sahib Horsford was
+impress it on her mind—that Sahib Horsford was
 anxious that she should become English, both in
 her ways and appearance, and that his hope was
 she would always remain in England. She knew
@@ -8102,8 +8102,8 @@ fixed on what was going on behind the hangings.</p>
 shrill voice. <q>It is Zeenut Mehal's orders. I
 dare not disobey them. She will pay you well.</q></p>
 
-<p><q>Yes--yes, but I--I fear. There are others I
-must think of. If they approve--well----</q></p>
+<p><q>Yes—yes, but I—I fear. There are others I
+must think of. If they approve—well——</q></p>
 
 <p><q>Others? What others? Who is it who
 raises his will against Zeenut Mehal's?</q></p>
@@ -8123,7 +8123,7 @@ vengeance. Bhowanee will not allow the death
 of Hoosein Khan to go unpunished.</q></p>
 
 <p><q>Bhowanee,</q> repeated the other in a hushed
-voice, <q>the goddess of murderers--of the thug.</q></p>
+voice, <q>the goddess of murderers—of the thug.</q></p>
 
 <p><q>Yes. Hoosein Khan was Mahommedan, but
 he had been a thug when he was young, and
@@ -8137,10 +8137,10 @@ dance and asked his mother for her. It was
 enough. The girl must be had at any price. She
 would have loaded me with gold had I brought
 Nara to her safely, but I was robbed of the child
---yes, robbed, Muza--and Hoosein Khan was
+—yes, robbed, Muza—and Hoosein Khan was
 murdered. I swore by Siva I would never rest,
 while life was in my body, until I had my revenge
-on the accursed Feringhee, the thief of Nara--the
+on the accursed Feringhee, the thief of Nara—the
 assassin of Hoosein Khan.</q></p>
 
 <p><q>Is this true?</q> faltered Muza.</p>
@@ -8157,13 +8157,13 @@ Khan. Sahib Horsford stole the girl and sent her
 across the Black Water, the Sahib himself fled to
 Burma to escape Zeenut Mehal's wrath. He has
 returned; he is now in Calcutta. Doubtless he
-thinks Zeenut Mehal no longer cares--that I have
+thinks Zeenut Mehal no longer cares—that I have
 forgotten. A daughter of Siva never forgets.
 You must kill him, Muza. What now of the
 others you talk about? Why should they come
 between me and my vengeance?</q></p>
 
-<p><q>I will tell you, but you must be dumb--
+<p><q>I will tell you, but you must be dumb—
 breathe not a word. It might mean your death
 and mine too. Great things, noble things are
 promised before the next monsoon. Our people
@@ -8172,17 +8172,17 @@ rewarded. A hundred years ago next June the
 fate of our country was sealed by the battle of
 Plassy. It was a shameful fight. Thousands of
 our fighting men covered themselves and our land
-with dishonour--they yielded to a mere handful
+with dishonour—they yielded to a mere handful
 of the Feringhees. We have seen chains heaped
 upon us year after year since the Feringhees
 hungered for our country; and that is not enough
---they now hunger for our religion. Why has the
+—they now hunger for our religion. Why has the
 Sahib Dalhousie gone? The Sahib was a great
 warrior and he took our lands, but he respected
 our faiths, and that was why he was not permitted
 to remain. The Sahib Canning has been sent to
-destroy our religion--the religion of our fore-
-fathers. We are to be made Christians--you will
+destroy our religion—the religion of our fore-
+fathers. We are to be made Christians—you will
 be forced to eat the flesh of oxen, of pigs. Yes,
 unless we fight now for our faith we are doomed.
 Do you understand?</q></p>
@@ -8206,7 +8206,7 @@ But this was overshadowed by her anxiety con-
 cerning Horsford. Sundra Bai's appearance in
 Calcutta was fully accounted for, and Nara shud-
 dered. She knew the cruel, the venomous nature
-of the <soCalled>Begum</soCalled>--no one better. There was
+of the <soCalled>Begum</soCalled>—no one better. There was
 danger to herself if she were recognised, but she
 cared nothing for this so that she could find Hors-
 ford and warn him.</p>
@@ -8229,7 +8229,7 @@ into the shop.</p>
 
 <div n="16" type="chapter">
 <pb n="217"/>
-<head type="num">Chapter XVI</head>
+<head type="num">Chapter <num type="cardinal" value="16">XVI</num></head>
 <head type="main">In the Balcony</head>
 
 <p>The dinner hour at the boarding-house was seven
@@ -8299,11 +8299,11 @@ much earlier hour, and hoped for the satisfaction
 of finding her out in a falsehood. The girl's frank
 admission rather took the wind out of Clare's
 <pb n="219"/>
-sails, but she had another tack to go upon--the
+sails, but she had another tack to go upon—the
 reason of Nara's stopping out so late. She put
 the question.</p>
 
-<p><q>I heard bad news in the bazaar--about--
+<p><q>I heard bad news in the bazaar—about—
 about a friend. He is in great danger, and I
 wanted to warn him. I have been walking about
 trying to find him, but could not; then rude men,
@@ -8331,7 +8331,7 @@ nism so pronounced. Clare at times was at such
 a pitch of tension that she was strongly tempted
 to pay the girl a month's wages and tell her to go.
 Nara's very presence irritated her. But her skill
-in dressing hair--that had to be thought of. She
+in dressing hair—that had to be thought of. She
 must be retained until the reception at Govern-
 ment House. After that was over the sooner she
 went the better.</p>
@@ -8366,7 +8366,7 @@ did my hair?</q> she asked, in dulcet tones.</p>
 <p><q>Yes, I do.</q></p>
 
 <p><q>I want it arranged in the same way for to-
-night--with the rope of pearls, you know, and
+night—with the rope of pearls, you know, and
 the diamonds at the sides.</q></p>
 
 <p><q>I understand.</q></p>
@@ -8442,17 +8442,17 @@ arrived she felt as helpless as a child.</p>
 
 <p>One of her grievances against Horsford, and the
 one that angered her most, was the blow his
-desertion--as she called it--had inflicted on her
+desertion—as she called it—had inflicted on her
 vanity. This grievance was sometimes palliated
 by the thought that possibly it was a sense of her
 fascinations which had kept him away. She had
 tried to comfort herself by fancying that he was
 afraid of being tempted. For she <emph>had</emph> tempted
 him once, impelled by some power she could not
-resist--a power that had found her at her weakest.
+resist—a power that had found her at her weakest.
 The punishment she meant to inflict was that he
 should be again fascinated, only to be disappointed.
-She had longed to see him make love to her--she
+She had longed to see him make love to her—she
 had longed to laugh in his face. This was only
 one of her many moods. She had others which
 were tender and forgiving.</p>
@@ -8465,7 +8465,7 @@ difference she intended to put on, of the piece of
 clever acting she meant to essay was gone. An
 inexplicable fear seized her. Something seemed
 to say that it were safer and better not to meet
-him. It was so easy to invent an excuse--a
+him. It was so easy to invent an excuse—a
 sudden headache would be enough. Yet the very
 idea of showing the white feather concerning the
 man over whom she had once triumphed and
@@ -8499,7 +8499,8 @@ for all seems very much the same to me.</q></p>
 for dismal prophets. They date from Jeremiah.
 I like General Anson's face exceedingly.</q></p>
 
-<p><q>When I see an opportunity I'll try to introduce<pb n="224"/>
+<p><q>When I see an opportunity I'll try to introduce
+<pb n="224"/>
 you. Just now he appears to be much absorbed.
 No doubt he is interested in what has been going
 on in Burma. The man to the right, Colonel
@@ -8514,7 +8515,7 @@ the same?</q></p>
 satisfying yourself. It's always pleasant to re-
 new old acquaintances.</q></p>
 
-<p><q>Yes--of course. Thank you very much, dear
+<p><q>Yes—of course. Thank you very much, dear
 <abbr>Mrs.</abbr> Chandos.</q></p>
 
 <p>Clare could hardly trust herself to speak.
@@ -8577,7 +8578,7 @@ rare that Clare showed such emotion.</p>
 <p><q>I'm glad to see you looking so well,</q> he went
 on after a pause.</p>
 
-<p><q>Thank you--Colonel Horsford. You see, I've
+<p><q>Thank you—Colonel Horsford. You see, I've
 heard of your advancement. I'm sure it's well
 deserved. May I congratulate you? Meanwhile,</q>
 she added, with a touch of her old raillery, <q>it
@@ -8588,7 +8589,7 @@ isn't necessary to hold my hand for ever.</q></p>
 panied by a swift glance, at once reproachful and
 indulgent.</p>
 
-<p><q>I beg your pardon--<abbr>Mrs.</abbr> Meldrum.</q></p>
+<p><q>I beg your pardon—<abbr>Mrs.</abbr> Meldrum.</q></p>
 
 <p>Horsford did not mean this as a counter-thrust.
 Clare, however, so interpreted it. The <q><abbr>Mrs.</abbr>
@@ -8645,7 +8646,7 @@ ready for endurance as well as speed.</p>
 
 <p>Another pause, again to be broken by Horsford.</p>
 
-<p><q>You congratulated me just now--may I be
+<p><q>You congratulated me just now—may I be
 allowed to congratulate you?</q></p>
 
 <p><q>On what?</q></p>
@@ -8676,10 +8677,10 @@ went on.</p>
 
 <p>Horsford was puzzled. An uncomfortable sus-
 <pb n="228"/>
-picion crept into his mind--a suspicion which
+picion crept into his mind—a suspicion which
 pained him and which he could not easily dismiss.
 Scandals were so common in Delhi. Meldrum ill
-in Delhi, his wife in Calcutta--what did it mean?</p>
+in Delhi, his wife in Calcutta—what did it mean?</p>
 
 <p>Clare must have read Horsford's thoughts.
 She went on to say:</p>
@@ -8691,7 +8692,7 @@ Delhi. The climate was killing me.</q></p>
 <p><q>The change has done you good?</q></p>
 
 <p><q>Oh, I don't know,</q> she answered hastily.
-<q>Perhaps. Of course I've been free from worry--
+<q>Perhaps. Of course I've been free from worry—
 still, at times I've felt very lonely.</q></p>
 
 <p><q>You've been travelling by yourself, then?</q></p>
@@ -8721,36 +8722,36 @@ familiarity, <q>Clare,</q> came from his lips. And to
 <pb n="229"/>
 think that by her own act she was fettered! How
 small their differences seemed now. How childish
-her jealousy of a miserable dancing-girl--a girl too
+her jealousy of a miserable dancing-girl—a girl too
 who belonged to the class most despised in India,
 the Eurasians! She had never troubled about
 the girl since. She did not know what had become
 of her and did not care. Oh, it was intolerable!</p>
 
-<p><q>Guy--why did you leave me without a word?
-You were cruel--cruel!</q></p>
+<p><q>Guy—why did you leave me without a word?
+You were cruel—cruel!</q></p>
 
 <p>The words burst from her without premeditation,
-and left her panting--hysterical. Horsford was
+and left her panting—hysterical. Horsford was
 dumbfounded, but whatever his feelings were
 towards her the moment was not one for weakness.</p>
 
 <p><q>Is it worth while to revive what's dead? You
 must think of me what you will. We've each
 chosen our own path. Let us continue in it.
-It's better and wiser--you must know that as
+It's better and wiser—you must know that as
 well as I do.</q></p>
 
 <p><q>Yes, for you, no doubt. But what about
 me? You're a man and free. I'm a woman and
 a slave.</q></p>
 
-<p><q>Clare--Clare, you're talking downright non-
+<p><q>Clare—Clare, you're talking downright non-
 sense.</q></p>
 
 <p>Horsford tried to introduce a note of sternness,
 but with not much success. His voice was not
-without pity--even tenderness.</p>
+without pity—even tenderness.</p>
 
 <p><q>Oh, I dare say,</q> she retorted. <q>Women,
 according to some men, talk nothing else. Per-
@@ -8763,14 +8764,14 @@ You had no business to take me seriously.</q></p>
 
 <pb n="230"/>
 <p><q>And if I were to admit that,</q> he returned
-very slowly, <q>what good would it do--<emph>now</emph>?</q></p>
+very slowly, <q>what good would it do—<emph>now</emph>?</q></p>
 
 <p><q>No good at all, I suppose. I wonder you don't
-say that what I did--marrying a man for whom
-I didn't care a bit--was my own fault--and that
+say that what I did—marrying a man for whom
+I didn't care a bit—was my own fault—and that
 what followed might have been expected.</q></p>
 
-<p><q>What followed! Surely--surely, Clare, you
+<p><q>What followed! Surely—surely, Clare, you
 haven't left your husband?</q></p>
 
 <p>Horsford spoke with concern, almost with agita-
@@ -8784,16 +8785,16 @@ me admirably, but I couldn't endure my husband,
 and I left him. I went to England by myself
 and I returned by myself.</q></p>
 
-<p><q>But--but does he allow you to do this with-
+<p><q>But—but does he allow you to do this with-
 out remonstrance?</q> asked Horsford, a little
 staggered.</p>
 
 <p><q>Oh, there have been remonstrances enough, I
 promise you. Of course he's always urging me to
-return. I have a letter from him--it reached me
+return. I have a letter from him—it reached me
 just before I left England, and I haven't answered
-it--which I should like to show you some day.
-I----</q></p>
+it—which I should like to show you some day.
+I——</q></p>
 
 <p><q>Pray do nothing of the kind,</q> interrupted
 Horsford hastily. <q>You've given me too many
@@ -8807,7 +8808,7 @@ look upon him, eloquent with meaning, and then
 dropped instantly.</p>
 
 <pb n="231"/>
-<p><q>If you'd come to me when I asked you--if
+<p><q>If you'd come to me when I asked you—if
 you'd only sent me a line!</q></p>
 
 <p><q>You had my letter. I wrote it immediately
@@ -8847,7 +8848,7 @@ and inclined her head towards his shoulder.</p>
 A man was entering the balcony. One more
 step, and his eyes were fixed upon them. With a
 little gasp of terror Clare sprang to her feet, and
-white and trembling faced the intruder--Andrew
+white and trembling faced the intruder—Andrew
 Meldrum!</p>
 
 </div>
@@ -8857,7 +8858,7 @@ Meldrum!</p>
 
 <div n="17" type="chapter">
 <pb n="232"/>
-<head type="num">Chapter XVII</head>
+<head type="num">Chapter <num type="cardinal" value="17">XVII</num></head>
 <head type="main">Husband and Wife</head>
 
 <p>Meldrum glared at them both for an instant.</p>
@@ -8881,8 +8882,8 @@ did not then realise. Clare had not told him all.</p>
 far as I'm able to give you one you shall have it,
 <abbr>Mr.</abbr> Meldrum,</q> he said quickly.</p>
 
-<p><q>Oh--you know me. So much the better.
-Just to clear the air--who are you?</q></p>
+<p><q>Oh—you know me. So much the better.
+Just to clear the air—who are you?</q></p>
 
 <p>The balcony was not lighted save for the feeble
 illumination coming through the windows, and
@@ -8890,7 +8891,7 @@ Horsford was in shadow.</p>
 
 <p><q>We're not unacquainted to each other, <abbr>Mr.</abbr>
 Meldrum. I am Colonel Horsford. In Simla you
-knew me as Captain Horsford, and----</q></p>
+knew me as Captain Horsford, and——</q></p>
 
 <pb n="233"/>
 <p><q><emph>You!</emph> Ha, I'm beginning to see daylight,</q>
@@ -8914,8 +8915,8 @@ heard her unmoved.</p>
 were not caressing &#x2026; your old friend &#x2026; may-
 be your old lover, for aught I can tell &#x2026; when I
 entered. I'm afraid I spoiled sport. I apologise.
-I hardly know what is the proper course for me--
-the husband--to take. The practice among <emph>gentle-
+I hardly know what is the proper course for me—
+the husband—to take. The practice among <emph>gentle-
 men</emph> under similar awkward circumstances used
 to be to do their best to kill each other. I don't
 propose to do anything so silly. What do you
@@ -8943,7 +8944,7 @@ Meldrum. I'm still her husband. For the mo-
 ment we won't go beyond this. You say you are
 concerned for <abbr>Mrs.</abbr> Meldrum. Permit me to take
 <emph>that</emph> responsibility. You'll have the goodness to
-come with me, Clare--at once.</q></p>
+come with me, Clare—at once.</q></p>
 
 <p>His imperious air, his sneering tones, cut Clare
 like the slash of a whip.</p>
@@ -8957,14 +8958,14 @@ you like. I don't care.</q></p>
 paramour?</q></p>
 
 <p>The accusation was intolerable. Hitherto Hors-
-ford had kept a strong curb upon himself--indeed,
+ford had kept a strong curb upon himself—indeed,
 it seemed to him the position was so unhappy that
 he could not interfere without making matters
 worse, but Meldrum's offensive charge was not
 to be borne.</p>
 
 <p><q>That's a falsehood, sir!</q> he cried hotly, <q>and
---what is much worse--a gross insult to your wife.</q></p>
+—what is much worse—a gross insult to your wife.</q></p>
 
 <p><q>Do you defend her?</q></p>
 
@@ -9036,7 +9037,7 @@ himself gloomily.</p>
 <p>It was impossible to tell where Clare's com-
 plexity of character would lead her. Rashness,
 uncontrollable impulses, strong feminine egotism,
-pertinacity--a formidable combination indeed, and
+pertinacity—a formidable combination indeed, and
 one full of the unexpected. How much of what
 she had said was he to believe? She had told him
 distinctly Meldrum was in Delhi. Did she know-
@@ -9137,7 +9138,7 @@ hospital, anyhow.</q></p>
 
 <p>A sergeant was looking on, and Horsford spoke
 to him. The sergeant thought he knew where to
-find a dhoolie, and he ran off. One of the native
+find a <foreign xml:lang="hi" rend="roman">dhoolie</foreign>, and he ran off. One of the native
 police came up to Horsford.</p>
 
 <pb n="239"/>
@@ -9158,7 +9159,7 @@ and presently the carriage rolled by. Horsford
 purposely kept his head bent, and did not see
 Clare's drawn, pale face at the carriage window.
 Presently the sergeant and a couple of men arrived
-with the dhoolie, and the girl was carried away,
+with the <foreign xml:lang="hi" rend="roman">dhoolie</foreign>, and the girl was carried away,
 still unconscious.</p>
 
 <p>The carriage meanwhile was speeding on its
@@ -9191,7 +9192,7 @@ you.</q></p>
 
 <p><q>About the frankly brutal letter you sent me.
 That virtually decided me. I looked upon it as
-my dismissal. I didn't suit you--you were greatly
+my dismissal. I didn't suit you—you were greatly
 disappointed, and you told me to go.</q></p>
 
 <p><q>Clare!</q></p>
@@ -9226,7 +9227,7 @@ she was puzzled. She was not one to understand
 <pb n="241"/>
 passiveness in a man. She was inclined to attribute
 it either to cowardice or craft. Andrew Meldrum,
-she knew, was not a coward--therefore silence in
+she knew, was not a coward—therefore silence in
 his case meant craft.</p>
 
 <p><q>He's preparing something. I'm sure of it,</q> she
@@ -9249,7 +9250,7 @@ the couch and tried to picture all that had happened
 during that too brief half hour on the balcony.
 How she had looked forward to meeting Horsford,
 to fascinating him afresh! She believed she had
-made herself invincible--thanks to Nara and she
+made herself invincible—thanks to Nara and she
 would have conquered, but for the unlucky in-
 trusion of her husband.</p>
 
@@ -9273,7 +9274,7 @@ to do with her. Can you wait on me to-night?</q></p>
 
 <p>The woman hesitated and mumbled something.
 Like all the native servants, she had only one
-idea--the special duties for which she had been
+idea—the special duties for which she had been
 engaged.</p>
 
 <p><q>How ridiculous! Of course I shall pay you.
@@ -9302,16 +9303,16 @@ her eyes. She saw the girl lying on the ground,
 and Guy Horsford bending over her. No wonder,
 with his gaze fixed on Nara's beauty, Horsford
 had no eyes for <emph>her</emph>. A pang of jealousy shot
-through her--absurd, unreasonable, of course, but
+through her—absurd, unreasonable, of course, but
 she could not help it.</p>
 
-<p><q>I'm afraid it was</q>--she was about to say
+<p><q>I'm afraid it was</q>—she was about to say
 <pb n="243"/>
 <q>my husband's carriage,</q> but this would mean
 explaining things to <abbr>Mrs.</abbr> Stephenson, and she was
 in no mood for explanations, so she substituted
 <q>the carriage that brought me home. I knew
-something had happened--that somebody had
+something had happened—that somebody had
 met with an accident, but I'd not the least idea
 it was Nara.</q></p>
 
@@ -9333,18 +9334,18 @@ I should have looked after her myself. Is she
 much hurt?</q></p>
 
 <p><q>The khidmutgar could not tell me. She was
-carried to the hospital in a dhoolie, and two
+carried to the hospital in a <foreign xml:lang="hi" rend="roman">dhoolie</foreign>, and two
 English officers were looking after her.</q></p>
 
 <p>Clare's heart beat violently. She was silent for
 a few seconds, and then with an effort said:</p>
 
-<p><q>And the man the girl was calling to--did he
+<p><q>And the man the girl was calling to—did he
 go as well?</q></p>
 
 <p><q>Well, according to Hasun's story, one of the
 English officers was the man. I can hardly be-
-lieve it--you know what inveterate gossips the
+lieve it—you know what inveterate gossips the
 natives are, and what splendid liars they can be
 when they like.</q></p>
 
@@ -9353,7 +9354,7 @@ when they like.</q></p>
 <pb n="244"/>
 <p>The word was little more than breathed. Clare
 felt as though a pall had suddenly descended upon
-her. Everything was vague save one--her jealous
+her. Everything was vague save one—her jealous
 hatred of Nara. Nara's halting story the other
 night of the reason why she was late instantly
 darted into Clare's mind, and here was the solution
@@ -9394,7 +9395,7 @@ where she lay like one lifeless till morning broke.</p>
 
 <div n="18" type="chapter">
 <pb n="245"/>
-<head type="num">Chapter XVIII</head>
+<head type="num">Chapter <num type="cardinal" value="18">XVIII</num></head>
 <head type="main">Nara's Warning</head>
 
 <p><q>Slight concussion,</q> said the surgeon. <q>I don't
@@ -9464,7 +9465,7 @@ you did. What became of the ayah who could
 handle the <foreign xml:lang="hi">roomal</foreign> as well as the <foreign xml:lang="hi">saringhee</foreign>?</q></p>
 
 <p><q>She died of cholera during the voyage to
-England--so the lady who had the child in charge
+England—so the lady who had the child in charge
 wrote me in the letter I told you I had had from
 her.</q></p>
 
@@ -9485,8 +9486,8 @@ gotten.</q></p>
 matter of revenge, the Easterns have plaguy long
 memories. Anyhow, the romance as it stands is
 a very pretty one. I only hope there won't be a
-sequel. Adventure--mischief--God or the devil
-knows what--follows a girl with a face like hers.
+sequel. Adventure—mischief—God or the devil
+knows what—follows a girl with a face like hers.
 It haunts one. Wait till the lips are red once
 more and she can use her eyes.</q></p>
 
@@ -9675,7 +9676,7 @@ hoped that he might have been able to set out on
 his journey without any fresh embarrassment on
 Nara's account. He could not but believe that
 the girl was in charge of English people in Calcutta
---friends it might be of her aunt--and that she
+—friends it might be of her aunt—and that she
 would be properly looked after.</p>
 
 <p>The doctor had been called away, and Horsford
@@ -9720,7 +9721,7 @@ mean is that if anything evil is about to happen,
 it throws its shadow before in some uncanny
 fashion. Have you ever noticed that?</q></p>
 
-<p><q>Yes. India is the land of fate--or to put the
+<p><q>Yes. India is the land of fate—or to put the
 matter in another form, in India one becomes a
 fatalist.</q></p>
 
@@ -9737,7 +9738,7 @@ and get it done with.</q></p>
 <p><q>All right. I can see you're steeled against
 the magic of a romantic face,</q> said the doctor
 laughingly. <q>Come along. You may be trusted
---especially as you're going away.</q></p>
+—especially as you're going away.</q></p>
 
 <p>Long before Horsford reached the ward where
 Nara was lying she knew he was coming, and in
@@ -9750,7 +9751,7 @@ creased the nurse's concern. But Nara would listen
 to nothing. She had caught sight of Horsford and
 she extended her hands imploringly.</p>
 
-<p><q>Sahib--Sahib--you----</q></p>
+<p><q>Sahib—Sahib—you——</q></p>
 
 <p>Her voice died away in a throb. She sank back
 panting and quivering.</p>
@@ -9770,12 +9771,12 @@ hands, her flushed face. He sat down by her
 bedside and rested his hand on hers.</p>
 
 <p><q>I knew you would come,</q> she whispered.
-<q>Oh, I have thought of you many--many times.</q>
+<q>Oh, I have thought of you many—many times.</q>
 She drew a deep breath and went on. <q>I have
 prayed night and morning that we might meet
 again and felt that my prayers would come true.
-God has sent me here to save you. Sahib--Sahib
---I want to tell you something--bend your head,
+God has sent me here to save you. Sahib—Sahib
+—I want to tell you something—bend your head,
 please. No one else must hear.</q></p>
 
 <p>Her yearning eyes, her vibrating voice, in which
@@ -9788,7 +9789,7 @@ enemies. I overheard them talking about you
 <pb n="255"/>
 but they did not see me. Oh, I was thankful I
 understood their language. It was what some of
-the girls with--with Sundra Bai used to speak,
+the girls with—with Sundra Bai used to speak,
 and I learned it of them.</q></p>
 
 <p>Nara told her story brokenly, and Horsford
@@ -9813,12 +9814,12 @@ He would have risen from his chair by the bedside,
 but Nara guessed his intention and convulsively
 clasped his hand between both hers.</p>
 
-<p><q>Sahib--Sahib,</q> she cried imploringly, <q>don't
+<p><q>Sahib—Sahib,</q> she cried imploringly, <q>don't
 leave me. If you go I shall be wretched. It
 would break my heart if anything happened to
 you. You don't know the wickedness of Sundra
 Bai. <emph>I</emph> do. I've seen it many and many a time.
-She never forgives. No--no----</q></p>
+She never forgives. No—no——</q></p>
 
 <p>He was trying to withdraw his hand, but her
 fingers had twined round it like little snakes.
@@ -9831,7 +9832,7 @@ Nara,</q> said Horsford gently. <q>I'm not afraid of
 a hundred Sundra Bais. I shall come and see
 you again.</q></p>
 
-<p><q>When--when----</q> she burst out.</p>
+<p><q>When—when——</q> she burst out.</p>
 
 <p><q>Very soon. This afternoon, perhaps. While
 I am away I must see what I can do to make sure
@@ -9847,20 +9848,20 @@ Sahib,</q> she went on, sinking her voice.</p>
 what you ask is impossible? You must be good,
 Nara, and do as I say.</q></p>
 
-<p><q>Yes--yes--I will try,</q> she murmured.</p>
+<p><q>Yes—yes—I will try,</q> she murmured.</p>
 
 <p><q>Very well then, rest quietly until I return. I
 suppose you don't want to go back to Sundra Bai
 and dancing?</q></p>
 
-<p><q>No--no. God forbid!</q> she cried.</p>
+<p><q>No—no. God forbid!</q> she cried.</p>
 
 <p><q>Good! Then I'll see what I can do for you
 when I come back.</q></p>
 
 <p>His voice softened. It was useless to attempt
 to be harsh with her. He saw she was anxious to
-please--to obey him. He was turning away when
+please—to obey him. He was turning away when
 a moment of weakness seized him. He could not
 resist the yearning, beseeching look in the big eyes.
 He bent down and kissed her. There was no
@@ -9883,7 +9884,7 @@ ticular locality indicated as a centre of danger.
 He saw no reason to alter his plans about Hors-
 ford's mission to Delhi.</p>
 
-<p><q>But two of the plotters are in Calcutta--ought
+<p><q>But two of the plotters are in Calcutta—ought
 they not to be discovered and watched?</q> ob-
 jected Horsford. <q>I would respectfully suggest
 that this woman Sundra Bai be arrested, or at
@@ -9891,7 +9892,7 @@ least detained while inquiries are being made.</q></p>
 
 <p><q>By all means, if she can be discovered. It's
 some days, you tell me, since the Eurasian girl
-saw her--she may have left Calcutta by this time.
+saw her—she may have left Calcutta by this time.
 Anyhow, you had better see the officer who has
 such matters in charge.</q></p>
 
@@ -9905,7 +9906,7 @@ tion and act upon it if necessary.</p>
 Horsford,</q> said Lord Canning. <q>Possibly Sundra
 Bai means to return to Zeenut Mehal and report.
 Evidently she's one of the Queen's spies. It's as
-well that you know her--you will be forewarned in
+well that you know her—you will be forewarned in
 case you run across her in Delhi.</q></p>
 
 <p>The interview with the secret inquiry officer did
@@ -9929,10 +9930,10 @@ manager of the hotel met him in the entrance hall.</p>
 <p><q>A lady is waiting to see you, sir,</q> said the
 manager. <q>She would not tell me her name.</q></p>
 
-<p><q>Clare--for a thousand pounds,</q> muttered
+<p><q>Clare—for a thousand pounds,</q> muttered
 Horsford, biting his lips. <q>How horribly im-
 prudent of her. What's happened now? I'm in
-a confoundedly awkward coil--a coil that for the
+a confoundedly awkward coil—a coil that for the
 moment I don't see how to get out of. Where is
 the lady?</q> he asked aloud.</p>
 
@@ -9962,7 +9963,7 @@ enemy with less misgivings than he felt now.</p>
 
 <div n="19" type="chapter">
 <pb n="259"/>
-<head type="num">Chapter XIX</head>
+<head type="num">Chapter <num type="cardinal" value="19">XIX</num></head>
 <head type="main">The Heart of a Woman</head>
 
 <p>The visitor had her back towards Horsford when
@@ -9985,21 +9986,21 @@ Quite thirty seconds went by, and she jerked
 herself round impatiently.</p>
 
 <p>He was amazed at the change he could see in
-her. She was unusually pale--her lips indeed were
-white--there were symptoms of dark curves be-
+her. She was unusually pale—her lips indeed were
+white—there were symptoms of dark curves be-
 neath the eyes, and the eyes themselves shone with
 a hard, metallic light.</p>
 
 <p><q>Why don't you speak to me, Guy?</q> she
-cried huskily. <q>Can't you see--don't you know
+cried huskily. <q>Can't you see—don't you know
 <pb n="260"/>
 that you're the only one in the world I can appeal
-to? I came to ask your help--of course you were
+to? I came to ask your help—of course you were
 not to blame for being out, but waiting for you to
 return got on my nerves. I've been here an hour,
 and it has been an eternity. I thought it would
-never come to an end, and now--you--you say
-nothing. Oh--oh.&#x2026;</q></p>
+never come to an end, and now—you—you say
+nothing. Oh—oh.&#x2026;</q></p>
 
 <p>She suddenly broke down. Her highly strung
 nervous system reached the last point of tension.
@@ -10010,7 +10011,7 @@ useless. He led her gently to the couch and
 persuaded her to sit quietly for a time.</p>
 
 <p>Clare was not a woman to be soothed in a mo-
-ment--Horsford could see this plainly enough, and
+ment—Horsford could see this plainly enough, and
 he did not express any pity or sympathy. He rang
 the bell and went into the corridor and waited
 until a servant came. Then he ordered a bottle
@@ -10043,7 +10044,7 @@ voice.</p>
 amiss?</q></p>
 
 <p><q>I've left my husband for ever. I won't go
-back--not that he's ever likely to ask me. I
+back—not that he's ever likely to ask me. I
 fancy I've made that impossible. At all events
 I want it to be so. I've told him the truth.</q></p>
 
@@ -10060,7 +10061,7 @@ her with the abnormal composure of despair.</p>
 <p><q>And how much of the truth does that mean?</q>
 Horsford asked slowly.</p>
 
-<p><q>All--your share as well as mine. There was
+<p><q>All—your share as well as mine. There was
 nothing else to be done. Andrew called on me
 this morning, and began by telling me he had had
 your letter and that he did not believe what you
@@ -10069,10 +10070,10 @@ said in it about our meeting here being accidental.</q></p>
 <p><q>But it was,</q> cried Horsford vehemently.
 <q>Did you not tell him so?</q></p>
 
-<p><q>Yes. I said you were innocent--that we
-hadn't heard from each other for five years--that
+<p><q>Yes. I said you were innocent—that we
+hadn't heard from each other for five years—that
 you hadn't the slightest idea I was in Calcutta
-when you threw up your appointment in Pegu--
+when you threw up your appointment in Pegu—
 <pb n="262"/>
 that you didn't even know I was married. Oh, I
 fought for you, Guy. I did you justice. I returned
@@ -10091,7 +10092,7 @@ You needn't have done so.</q></p>
 
 <p><q>I thought it best. You gave me no hope in
 the letter you wrote from Delhi that you would
-ever see me again--that you wanted to see me
+ever see me again—that you wanted to see me
 again.</q></p>
 
 <p><q>The chances were against our meeting. No
@@ -10102,7 +10103,7 @@ had cast me off, and I was anxious you should be
 free.</q></p>
 
 <p><q>Free? How could I ever be free? What is
-it that chains us? Thought--memory--regret--
+it that chains us? Thought—memory—regret—
 disappointment.</q></p>
 
 <p>Horsford made no answer. He felt that Clare
@@ -10128,14 +10129,14 @@ thing to do. I did not want him to be under a
 false impression. And I felt I could no longer go
 on acting the lie against which I've been struggling
 for the last five years. He wanted to know why
-I had come to Calcutta. A good many people--
+I had come to Calcutta. A good many people—
 you yourself, Guy, though you didn't say it in so
-many words--have wondered why. I said that
+many words—have wondered why. I said that
 it was in order to meet you.</q></p>
 
 <p><q>Me? That was a lie,</q> burst out Guy furiously.
 <q>How could you say such a thing? God in
-Heaven, that you----</q></p>
+Heaven, that you——</q></p>
 
 <p><q>No, no. You mustn't say a word until you've
 heard all,</q> she implored, holding her hand against
@@ -10231,7 +10232,7 @@ myself?</q></p>
 
 <p><q>No,</q> he returned quickly. <q>That's the last
 thing I wish. I'm not reproaching you. I've not
-the ghost of a right to do <emph>that</emph>--but why did you
+the ghost of a right to do <emph>that</emph>—but why did you
 make that terrible confession?</q></p>
 
 <p><q>Oh, it was inevitable,</q> she answered, with
@@ -10269,10 +10270,10 @@ places! Meldrum's home is there. What a
 triumph for me!</q></p>
 
 <p><q>My God, Clare, you're mad! Scandal won't
-affect me--it slips off a man's back pretty easily,
+affect me—it slips off a man's back pretty easily,
 but it sticks to a woman, whatever part of the
 world she may be in. I can't prevent you going
-to Delhi by yourself, but <emph>with</emph> me--for Heaven's
+to Delhi by yourself, but <emph>with</emph> me—for Heaven's
 sake think twice!</q></p>
 
 <p><q>Think? Haven't I been thinking for the last
@@ -10280,14 +10281,14 @@ five years? I'm not blind to my own nature.
 I'm lost if I haven't the companionship of a man
 who's congenial to me. I'm not going back to
 my husband, that's certain, and if you cast me off
---Guy----</q></p>
+—Guy——</q></p>
 
 <p>She suddenly altered her tone, and her manner
 with it. The first was hard, the second aggressive.
 She continued:</p>
 
-<p><q>When we separated our difference--I can
-hardly call it a quarrel--was over a dancing-girl.
+<p><q>When we separated our difference—I can
+hardly call it a quarrel—was over a dancing-girl.
 You preached about saving her from a horrible
 life. What about <emph>my</emph> life, Guy? What will you
 do to save <emph>me</emph>?</q></p>
@@ -10297,8 +10298,8 @@ do to save <emph>me</emph>?</q></p>
 <p><q>That isn't the point. If you thought it right
 <pb n="267"/>
 to save a girl from shame how much more anxious
-you ought to be to save a woman--and one
-who----</q></p>
+you ought to be to save a woman—and one
+who——</q></p>
 
 <p>Her voice quivered, and she turned her head
 away.</p>
@@ -10309,9 +10310,9 @@ adrift, and that you've now nothing to live upon.</q></p>
 <p><q>I don't mean anything of the kind. The
 balance of my settlement isn't so small as Andrew's
 letter might lead you to imagine. Lawton and
-his friends would have robbed me--you know
+his friends would have robbed me—you know
 how easily cheating can be done over horse-racing
---and I took precautions. I purposely withdrew
+—and I took precautions. I purposely withdrew
 a large sum from the bank and invested it in
 English securities. Andrew chose to pay my
 debts, but I dare say he was thinking more of
@@ -10326,9 +10327,9 @@ trouble about fixing one's responsibility. I know
 what awaits me. I didn't travel alone for a year
 without discovering what men think of women
 who are <soCalled>unattached.</soCalled> They're prey to be
-pursued. I could take care of myself then--you
+pursued. I could take care of myself then—you
 were ever in my mind, Guy. But if you discard
-me--I suppose you have a right--I can't say what
+me—I suppose you have a right—I can't say what
 may happen.</q></p>
 
 <p><q>You don't mean this for a threat, do you,
@@ -10341,7 +10342,7 @@ dressed men of charming manners who were
 scoundrels all the same. They abound in foreign
 hotels. I've learned to tell that kind of man at
 a glance. But there are others, rich, generous,
-well-meaning and--foolish. Do you suppose I
+well-meaning and—foolish. Do you suppose I
 couldn't have made them fall in love with me had
 I chosen? But they didn't interest me, and I
 looked upon them with indifference, not because
@@ -10371,12 +10372,12 @@ pleaded.</p>
 <p><q>No. I want you to understand clearly that
 whatever happens the first thing is my duty. I
 must obey orders, and those orders are to reach
-Delhi with all possible despatch. Nothing--not
-even you, Clare--must stand in the way.</q></p>
+Delhi with all possible despatch. Nothing—not
+even you, Clare—must stand in the way.</q></p>
 
 <p><q>You misjudge me, Guy, if you think I'm
 going to be a burden. I only want to be near you
---to talk with you when we can--to know that
+—to talk with you when we can—to know that
 <pb n="269"/>
 we're friends. I'll do anything you ask me. It
 shall be as you say. I'll follow you to-morrow.
@@ -10406,13 +10407,13 @@ for the next half-hour busied himself in the work
 of packing.</p>
 
 <p>Again Horsford was at the hospital and was
-taken direct to the doctor's room--<abbr>Dr.</abbr> Pentreath
+taken direct to the doctor's room—<abbr>Dr.</abbr> Pentreath
 had given orders to that effect.</p>
 
 <p><q>I'm glad you've come, Colonel Horsford,</q>
 said the bluff doctor. <q>I want to speak straight
 to you. I don't know how you regard that in-
-teresting <foreign rend="roman" xml:lang="fr">protégée</foreign> of yours--it's no affair of mine,
+teresting <foreign rend="roman" xml:lang="fr">protégée</foreign> of yours—it's no affair of mine,
 and all I'm concerned about is the girl as a
 patient. It's my duty to do the best I can for
 her. She's horribly harassed in her mind and
@@ -10420,7 +10421,7 @@ quite likely as not to do something desperate.
 Her brain isn't working normally, and won't while
 she's thinking about you. It's no use beating
 <pb n="270"/>
-about the bush--the poor child's madly in love
+about the bush—the poor child's madly in love
 with you, and the less she sees of you the better.
 I'll have a talk with her and explain that you've
 been ordered off to Delhi.</q></p>
@@ -10428,9 +10429,9 @@ been ordered off to Delhi.</q></p>
 <p><q>It would be at once the truth and the best
 thing to do. Look here, doctor, I'm going to ask
 a favour of you. I want you to keep Nara here
-in some capacity, it doesn't matter what--I think
+in some capacity, it doesn't matter what—I think
 you'll find her useful. I don't want you to pay
-her--that is to say, out of the funds of the hospital.
+her—that is to say, out of the funds of the hospital.
 I'll arrange that with you and subscribe some-
 thing to the funds besides. You understand the
 interest I take in her, don't you?</q></p>
@@ -10466,7 +10467,7 @@ so silent and absorbed as Colonel Guy Horsford.</p>
 He gave Nara Horsford's message. She listened
 quietly, and then shook her head.</p>
 
-<p><q>No--no. I won't stay unless the Sahib tells
+<p><q>No—no. I won't stay unless the Sahib tells
 me with his own lips. Why doesn't he come to
 see me? He said he would. Let him tell me
 himself.</q></p>
@@ -10475,7 +10476,7 @@ himself.</q></p>
 was obliged to leave Calcutta, and by this time
 he is on his way to Delhi.</q></p>
 
-<p><q>To Delhi? Oh----</q></p>
+<p><q>To Delhi? Oh——</q></p>
 
 <p>A look of fright was in her eyes. The exclama-
 tion came from her lips in a long-drawn sigh.</p>
@@ -10500,13 +10501,13 @@ nurse knocked at his door and came in, looking
 very agitated.</p>
 
 <p><q>If you please, sir, a most extraordinary thing's
-happened--but it was no fault of mine--I was not
-on night duty--I----</q></p>
+happened—but it was no fault of mine—I was not
+on night duty—I——</q></p>
 
 <p><q>Well?</q> said the doctor sharply.</p>
 
-<p><q>The girl--the ayah you gave me instructions
-about last night--is gone.</q></p>
+<p><q>The girl—the ayah you gave me instructions
+about last night—is gone.</q></p>
 
 <pb n="272"/>
 <p><q>Gone? Gone where?</q></p>
@@ -10537,7 +10538,7 @@ might be in store for her, she felt at that moment
 in an exaltation of spirits to which she had long
 been a stranger. She had not carried out her
 dream of fascinating Guy Horsford a second time
---of bringing him to her feet; but she was free
+—of bringing him to her feet; but she was free
 from the hateful fetters imposed upon her by her
 marriage with Meldrum. Not, indeed, legally free,
 but for this she cared little. Before a woman's
@@ -10549,11 +10550,11 @@ of her wilfulness. If she reflected at all on the
 situation it was with a sense of relief that
 <pb n="273"/>
 the heart-burnings, the bitterness, the regrets, the
-folly--regrets that seemed vain, and folly which
-appeared irremediable--of the last five years were
+folly—regrets that seemed vain, and folly which
+appeared irremediable—of the last five years were
 gone. She had no longer any fear about Horsford,
 she had bound him to her by a link stronger than
-that of love--the link of honour.</p>
+that of love—the link of honour.</p>
 
 <p>So it was natural that the freshness, the gaiety
 of her young days should dawn once more, and
@@ -10586,7 +10587,7 @@ no difference. I want to do what is right.</q></p>
 sage to a similar effect from <abbr>Mr.</abbr> Meldrum, but
 no doubt you're aware of that.</q></p>
 
-<p><q><abbr>Mr.</abbr> Meldrum--oh yes----</q></p>
+<p><q><abbr>Mr.</abbr> Meldrum—oh yes——</q></p>
 
 <pb n="274"/>
 <p>Clare was confused for a moment or two, and
@@ -10631,10 +10632,10 @@ The unsuspecting doctor went on.</p>
 <p><q>Well, it turns out that your ayah is the heroine
 of his romance. She's the daughter of an old
 comrade of his who was killed at Moodkee. The
-story's too long to tell in all its details--indeed I
+story's too long to tell in all its details—indeed I
 <pb n="275"/>
 shouldn't have mentioned it but for the fact
-that you and Colonel Horsford are old friends--
+that you and Colonel Horsford are old friends—
 but the gist is that he managed to get the girl to
 England. How she came back you, of course,
 <abbr>Mrs.</abbr> Meldrum, know better than I do.</q></p>
@@ -10674,7 +10675,7 @@ endured her life with Andrew Meldrum. She could
 have done pretty much as she liked had she
 chosen to humour him. But from the first she
 had thwarted and irritated her husband. And it
-had all come to this--she was a woman scorned,
+had all come to this—she was a woman scorned,
 duped, made a thing of nought to be flung aside
 for a girl of mixed blood, doubtful parentage, and
 belonging to a shameful calling!</p>
@@ -10708,7 +10709,7 @@ was discharged from the hospital.</p>
 see her again. I can't keep this money. I'd
 better return it personally and thank him. I
 suppose Meldrum hasn't gone with his wife to
-Delhi--or maybe she's made him miss the train.</q></p>
+Delhi—or maybe she's made him miss the train.</q></p>
 
 <pb n="277"/>
 <p>The doctor went to Osmonde's hotel and asked
@@ -10740,7 +10741,7 @@ the head.</p>
 
 <div n="20" type="chapter">
 <pb n="278"/>
-<head type="num">Chapter XX</head>
+<head type="num">Chapter <num type="cardinal" value="20">XX</num></head>
 <head type="main">The Beginning of the End</head>
 
 <p>A <foreign rend="roman" xml:lang="hi">dâk</foreign> palanquin was traversing the hard, white
@@ -10814,7 +10815,7 @@ put his finger on anything definite which it could be
 said deepened his worries, but he was unable to get
 rid of a vague sense of disquietude and impending
 trouble. In one respect the foreboding he had
-on leaving Calcutta had not been realised--there
+on leaving Calcutta had not been realised—there
 were no signs of the danger against which Nara
 had warned him. Latterly he had ceased to re-
 gard the plot against himself as of any importance.
@@ -10850,10 +10851,10 @@ suggests, came upon Horsford directly he was
 within its precincts. The narrow, tortuous lanes
 between sullen walls, the noisome smells, the black,
 viscid mud, were all Delhi. The palanquin crossed
-one of the many courtyards of the Palace--there
+one of the many courtyards of the Palace—there
 was a glimpse of imposing architecture, of massive
 columns, arches, ornamentation, luxuriant and
-severe by turns--all Delhi. After the palanquin
+severe by turns—all Delhi. After the palanquin
 emerged from the Cashmeer Gate, and Horsford's
 eyes fell on the villas and the bungalows, and a
 long string of oxen-drawn carts, laden with stores
@@ -10875,7 +10876,7 @@ the meaning of the mysterious distribution of the
 chupatties. Nobody had been able to discover
 for what purpose these harmless flat cakes had
 been passed from hand to hand. Not even the
-natives seemed to know--they certainly would not
+natives seemed to know—they certainly would not
 or could not give any explanation. It was as-
 sumed that they were intended as a signal to be
 prepared for some great event, and this in itself
@@ -11048,7 +11049,7 @@ with murderous force, he knew no more.</p>
 the speaker a gross, unwieldy old woman, whose face
 suggested a dried yellow skin stretched over a skull.</p>
 
-<p><q>I--I do not think so, Sundra Bai,</q> stammered
+<p><q>I—I do not think so, Sundra Bai,</q> stammered
 the thin, grey-bearded man who was holding the
 lamp so that its smoky light fell on the huddled
 figure lying on the damp, slimy stones. Then he
@@ -11063,7 +11064,7 @@ attention.</q></p>
 woman angrily. <q>Let him be seen to by the
 King's physician. He must be restored to health.
 I want my vengeance to be long. I would see
-him die slowly--slowly: days--weeks--months--
+him die slowly—slowly: days—weeks—months—
 of torture. Do you understand, Muza Khan?</q></p>
 
 <p><q>Yes, yes,</q> muttered the man. <q>Your orders
@@ -11088,14 +11089,14 @@ weak as a rat, but attacked with fits of shivering
 and dry heat which he knew were the forerunners
 of fever. His condition was not wonderful. He
 was lying in one of the noisome dungeons of the
-grim Salim-garh fort. His prison had a slit of a
+grim <choice><corr>Salim-garh</corr><orig>Salim-gahr</orig></choice> fort. His prison had a slit of a
 window in the thick wall, not more than a few
 feet above the river Jumna. It was the dry
 season, the river was low, and its sandy bank
 was the receptacle of fever-breeding refuse. The
 narrow opening faced the east, and when Horsford
-had thrown off the fever--a process of some three
-weeks--the rising sun was the only means he had
+had thrown off the fever—a process of some three
+weeks—the rising sun was the only means he had
 of knowing how the days came and went.</p>
 
 <p>What was to be his fate he could not conjecture.
@@ -11103,7 +11104,7 @@ Evidently he was not to be allowed to die, or why
 was the physician so constant in his attentions?
 But these speculations did not occupy him long.
 With returning strength came one all-absorbing
-desire--escape. The slit of an opening only served
+desire—escape. The slit of an opening only served
 to throw a pencil of light on one particular spot.
 Everywhere else the floor, the roof, the walls
 was black. He made his way to the door by
@@ -11139,7 +11140,7 @@ men who brought him food. The plan was full
 of risk; he had no weapon of any kind, and could
 only trust to his fists. If he escaped their tulwars,
 keen as razors, he would have to run the gauntlet
-of the guard outside. Still--the boldness, the
+of the guard outside. Still—the boldness, the
 energy, the courage of Englishmen had in India been
 successful against heavy odds times out of number,
 and when he was less weak he would make the
@@ -11207,7 +11208,7 @@ hurriedly towards Muza Khan.</p>
 ironically. <q>I won't hurt you.</q></p>
 
 <p><q>No,</q> she screamed, <q>I know that. I have cut
-your claws, Sahib aha!--and neither you nor any
+your claws, Sahib aha!—and neither you nor any
 of your accursed race can harm us. I have come to
 tell what is happening. It will please you. Listen.</q></p>
 
@@ -11232,13 +11233,13 @@ in that loathsome prison.</p>
 hissed, coming very near to him now that she had
 convinced herself he was powerless, <q>but all the
 sahib-logues in Delhi, all the mem-sahibs, all
-the babas. To-night it may be--to-morrow of a
+the babas. To-night it may be—to-morrow of a
 certainty. The red and blue and white flag will
 be dragged down and torn into strips and the green
 flag of the true faith will be waving over Delhi.
-Not one of you will be left. No--no, I am wrong
+Not one of you will be left. No—no, I am wrong
 <pb n="291"/>
-there--<emph>one</emph> will be spared. Do you know who that
+there—<emph>one</emph> will be spared. Do you know who that
 one is? You yourself, Sahib Horsford. Your ac-
 complice, Kulloo Bux, was racked with pain before
 he confessed. His confession did not save him,
@@ -11250,9 +11251,9 @@ do,</q> broke in Horsford haughtily. <q>Englishmen
 know how to die.</q></p>
 
 <p><q>I doubt it not. Death is nothing. Bodily
-agony, lasting hours--days--weeks, till you beg
-and pray for mercy--that is everything. You will
-have some one to see you suffer--some one you
+agony, lasting hours—days—weeks, till you beg
+and pray for mercy—that is everything. You will
+have some one to see you suffer—some one you
 love as your life. She shall dance and sing to you
 while you slowly die. And if she refuses, there is
 the lash for her. What have you to say?</q></p>
@@ -11260,7 +11261,7 @@ the lash for her. What have you to say?</q></p>
 <p><q>Do as you please,</q> he rejoined doggedly. <q>I
 defy you to extract a cry from me.</q></p>
 
-<p><q>Ah yes--from <emph>you</emph>--but from your Nara?
+<p><q>Ah yes—from <emph>you</emph>—but from your Nara?
 When the whip cuts her flesh, will she be silent?
 Oh, if you do not beg for mercy for yourself, you
 will for her.</q></p>
@@ -11284,8 +11285,8 @@ could tell, be carried out in all its fiendish details.</p>
 <pb n="292"/>
 her face when the mysterious hints she had let
 fall concerning the fate of the English people in
-Delhi--hints which in the talk relating to himself
-had dropped into the background--recurred to
+Delhi—hints which in the talk relating to himself
+had dropped into the background—recurred to
 him. He knew he would get no information by
 asking for it direct, and he made some remark,
 half sneering, half defiant, in reference to her
@@ -11293,7 +11294,7 @@ boasted supremacy of the green flag of Islam.</p>
 
 <p>She turned upon him furiously.</p>
 
-<p><q>What do you know, dog of an infidel--you
+<p><q>What do you know, dog of an infidel—you
 who have been shut from the world, from the light
 of the sun for a month?</q></p>
 
@@ -11327,14 +11328,14 @@ which could not be gainsaid.</p>
 
 <div n="21" type="chapter">
 <pb n="293"/>
-<head type="num">Chapter XXI</head>
+<head type="num">Chapter <num type="cardinal" value="21">XXI</num></head>
 <head type="main">The Eleventh of May</head>
 
 <p>Sundra Bai's terrible words instead of crushing
 Horsford's spirit acted upon it as a counter-
 irritant and helped him to throw off the effect of
 the narcotic. But with renewed enemy came also
-biting suspense--gnawing anxiety and a sense of
+biting suspense—gnawing anxiety and a sense of
 utter helplessness. Inaction was the thing most
 to be dreaded. He felt he must exert himself in
 some way or he would go mad.</p>
@@ -11382,7 +11383,7 @@ fixed on the slit of daylight.</p>
 of the outer world. It appeared to him he was
 about six feet above the level of the Jumna.
 He saw a portion of its placid waters and the
-Trunk Road beyond. All was quiet--no sounds
+Trunk Road beyond. All was quiet—no sounds
 of uproar, no firing of guns such as would be sure
 to follow the uprising, the massacre hinted at by
 Sundra Bai. The aspect was so peaceful that he
@@ -11398,7 +11399,7 @@ discover how to open it.</p>
 <pb n="295"/>
 bitterly. <q>Hardly likely the poor devils of
 prisoners, my predecessors, would not have thought
-of twisting the cursed thing--only to find them-
+of twisting the cursed thing—only to find them-
 selves foiled.</q></p>
 
 <p>For all that he made the attempt. The band
@@ -11438,7 +11439,7 @@ that nothing but starvation should induce him to
 eat anything. His fingers encountered nothing
 but the hard stone floor.</p>
 
-<p><q>Starved to death--is that to be my fate?</q>
+<p><q>Starved to death—is that to be my fate?</q>
 he cried aloud.</p>
 
 <p>The darkness, his dismal thoughts, his help-
@@ -11479,7 +11480,7 @@ Horsford. <q>What in the name of Heaven is the
 meaning of it?</q></p>
 
 <p>It was simply a wild, unruly mob of horsemen.
-Horsford had never seen anything so like a rout--
+Horsford had never seen anything so like a rout—
 a <foreign xml:lang="fr">sauve qui peut</foreign> of about fifty men. He could see
 but one explanation. Either they were mutineers
 and were being pursued by British troops or
@@ -11530,7 +11531,7 @@ anxious he became.</p>
 
 <p>After the troops passed into the city the cheering,
 which apparently their arrival had caused, changed
-into murmurs, shouts, yells--the screaming of
+into murmurs, shouts, yells—the screaming of
 women. Then followed reports of firearms at
 irregular intervals.</p>
 
@@ -11594,7 +11595,7 @@ next moment he recoiled in amazement. He saw
 not the assassins he expected, but a girl who,
 darting through his dungeon's gloom, appeared
 to his fevered brain like an angel of deliverance.
-He could say nothing--do nothing. He heard her
+He could say nothing—do nothing. He heard her
 frantic whispers, but for a second or two they
 seemed to convey no meaning.</p>
 
@@ -11613,11 +11614,11 @@ dragged him with all her force.</p>
 threats Horsford was not surprised to see her, but
 everything was overwhelmed by her terrible tidings.</p>
 
-<p><q>Why do you not move? I---- Oh-- oh--
+<p><q>Why do you not move? I—— Oh— oh—
 oh!&#x2026;</q></p>
 
 <p>The girl had caught sight of the chain of the
-waistband--of the staple in the wall. She was
+waistband—of the staple in the wall. She was
 seized with a fit of trembling, her eyelids drooped,
 she reeled and would have fallen but for Horsford
 flinging his arms about her.</p>
@@ -11645,7 +11646,7 @@ been exhausted by her first convulsions, and was
 preparing for the next effort. Words in a broken
 whisper reached Horsford's ear.</p>
 
-<p><q>Sahib--Sahib--is this--death? Oh, if--if--
+<p><q>Sahib—Sahib—is this—death? Oh, if—if—
 with you.&#x2026;</q></p>
 
 <p>Nara's voice died away. She crept closer within
@@ -11656,8 +11657,8 @@ terious way to have the power of awakening
 Horsford's numbed senses. He drew himself erect;
 his embrace tightened; he forgot that he was
 chained. He lifted her with the intention of
-carrying her to the door. One pace--a sudden
-jerk--a loud clanking of metal--he was free!</p>
+carrying her to the door. One pace—a sudden
+jerk—a loud clanking of metal—he was free!</p>
 
 <p>Without relinquishing his burden he turned to
 where the staple had been. Between the two
@@ -11666,7 +11667,7 @@ a finger. The cement was cracked and crumbling,
 the staple had been dragged out by the jerk of his
 body and was lying on the ground still attached
 to the chain. There could be but one cause for
-this--an earthquake.</p>
+this—an earthquake.</p>
 
 <p>The discovery brought with it a terrible dread.
 The Salim-garh, stout as it was, might be the very
@@ -11699,7 +11700,7 @@ part of the prison, and she had wheedled its exact
 whereabouts out of the old physician who had
 been called to Horsford.</p>
 
-<p><q>Every one is away in the streets--killing,
+<p><q>Every one is away in the streets—killing,
 killing,</q> she whispered fearfully. <q>Oh, it is
 horrible! The soldiers at Meerut mutinied last
 evening and shot their officers and the ladies and
@@ -11718,7 +11719,7 @@ gether. At the top was a small chamber with a
 narrow, squat, arched door, which Horsford tried
 to open, but tried in vain.</p>
 
-<p><q>But I left it unlocked--indeed I did, Sahib,</q>
+<p><q>But I left it unlocked—indeed I did, Sahib,</q>
 cried Nara, <q>and I took the key away. I threw
 the key out of the barred window below. It was
 part of my plan to set you free.</q></p>
@@ -11796,8 +11797,8 @@ cheeks from a gaping wound in the skull. Hors-
 ford recognised the long, thin, withered face, the
 grey hair and beard. So, too, did Nara.</p>
 
-<p><q>Muza Khan--Muza Khan,</q> she exclaimed, in
-a low, frightened voice. <q>Oh, Sahib--Sahib,
+<p><q>Muza Khan—Muza Khan,</q> she exclaimed, in
+a low, frightened voice. <q>Oh, Sahib—Sahib,
 Sundra Bai will have no mercy now.</q></p>
 
 <p>Horsford took no notice of Nara's words. He
@@ -11806,16 +11807,16 @@ with sudden hope, and thanks to his knowledge
 of native dresses he went at once to where Muza
 Khan carried his money and valuables. He found
 what he wanted in a receptacle beneath his girdle
---a key of strange, uncouth shape. He held it out
+—a key of strange, uncouth shape. He held it out
 to Nara.</p>
 
-<p><q>Quick--quick!</q> he shouted. <q>This ac-
+<p><q>Quick—quick!</q> he shouted. <q>This ac-
 cursed belt. Here's the key. Do you under-
 stand?</q></p>
 
 <p>Not another word was needed. In less than a
 minute he was free from the hateful iron band.
-It had not been altogether an evil. Its chain--
+It had not been altogether an evil. Its chain—
 what would he have done without that?</p>
 
 <p>Muza Khan was armed with a sword, and of
@@ -11835,7 +11836,7 @@ and eventually they found themselves on the roof.</p>
 
 <div n="22" type="chapter">
 <pb n="306"/>
-<head type="num">Chapter XXII</head>
+<head type="num">Chapter <num type="cardinal" value="22">XXII</num></head>
 <head type="main">Kismet!</head>
 
 <p>Horsford stared about him in amazement. The
@@ -11846,7 +11847,7 @@ but its rays had a difficulty in penetrating the
 smoke. So much had happened during the last
 ten minutes that he had forgotten the terrific
 report, the trembling of the ground, the vibrating
-walls of the Salim-garh--the effects, so he thought,
+walls of the Salim-garh—the effects, so he thought,
 of an earthquake.</p>
 
 <p>As the recollection came back he looked about
@@ -11855,14 +11856,14 @@ pected to find ruin, desolation everywhere. But
 the great edifices of Delhi were all intact. The
 Jama Masjid was as stately, the Palace as im-
 posing as ever, and he could see no change any-
-where. Stay--what was that big expanse of
+where. Stay—what was that big expanse of
 vacancy to the north-west, half obscured by slowly
 rolling pillars of dark, dense smoke? He could
 see dimly figures moving at the edges of the area
 of vapour, some bending as they went, as though
 searching for something, others carrying burdens
-between them--burdens which he made out to be
-dhoolies, and the truth flashed across his mind.</p>
+between them—burdens which he made out to be
+<foreign xml:lang="hi" rend="roman">dhoolies</foreign>, and the truth flashed across his mind.</p>
 
 <pb n="307"/>
 <p><q>My God!</q> he cried. <q>The Magazine's
@@ -11895,7 +11896,7 @@ the city walls to take shelter in the Flagstaff
 Tower; the officers in the cantonments who had
 seen their men, so obedient but a few hours before,
 jeer and scoff and rush to join the mutineers from
-Meerut--looked in vain for help!</p>
+Meerut—looked in vain for help!</p>
 
 <p>The roof of the Salim-garh was one big promenade
 enclosed by a high parapet. There were various
@@ -11909,10 +11910,10 @@ was enough. The Grand Trunk Road was strongly
 held, the bridge of boats had been secured, and
 troops patrolled the river bank.</p>
 
-<p><q>Look--look!</q> suddenly cried the girl. <q>Those
-two poor men. They are running to the river--
-they are being pursued--they are swimming.
-Ah, they have escaped, and--oh, cruel--cruel!</q></p>
+<p><q>Look—look!</q> suddenly cried the girl. <q>Those
+two poor men. They are running to the river—
+they are being pursued—they are swimming.
+Ah, they have escaped, and—oh, cruel—cruel!</q></p>
 
 <p>She covered her eyes with her <foreign xml:lang="hi">sari</foreign> to shut out
 the sight. Horsford set his teeth and clenched
@@ -11924,22 +11925,22 @@ on the bank raised their muskets, levelled and
 deliberately shot the two swimmers.</p>
 
 <p>Horsford had hoped to escape by the river.
-The incident told him that such an attempt--at
-all events by daylight--would mean death. He
+The incident told him that such an attempt—at
+all events by daylight—would mean death. He
 ran with Nara across to the other side of the Fort
 facing the city. Their ears were filled with a
-horrid din--shouts, yells, the screams of women,
+horrid din—shouts, yells, the screams of women,
 the hoarse voices of savage men, the crashing of
 wood, as of heavy hammers descending on doors
 and window shutters, the splintering of glass,
-the sharp report of muskets, and underneath all--
-a sort of ground bass, as it were--a continual growl,
+the sharp report of muskets, and underneath all—
+a sort of ground bass, as it were—a continual growl,
 now rising to an angry roar, now sinking to sullen
 murmurs. All the narrow lanes within view were
 packed with seething crowds, struggling, fighting,
 swaying, with now and again mad rushes to some
 point where doubtless there was plunder. The
-budmash, the riffraff of vile slums such as it is
+<foreign xml:lang="hi" rend="roman">budmash</foreign>, the riffraff of vile slums such as it is
 <pb n="309"/>
 impossible to picture had been let loose. Delhi
 had emptied its sinks of iniquity. Robbery and
@@ -11949,24 +11950,24 @@ the allegiance of years, and had turned against
 those whom they loved and respected!</p>
 
 <p><q>It's pretty bad for me,</q> murmured Horsford,
-<q>but for you, my poor child--my God! it's
+<q>but for you, my poor child—my God! it's
 frightful. Well, we must do something,</q> he went
 on desperately. <q>We can't stay here. We're
 bound to be discovered, and we shall be like rabbits
 in the open without a vestige of shelter. Look
-here, Nara, you must leave me----</q></p>
+here, Nara, you must leave me——</q></p>
 
 <p><q>No, I will <emph>not,</emph></q> she burst out passionately.</p>
 
 <p><q>Wait a moment. Just listen. You're of your
 mother's race now. You must forget your English
-blood. No one will harm you by yourself--you
-belong to India. But if you're with me--it will
-mean death. You must go back and----</q></p>
+blood. No one will harm you by yourself—you
+belong to India. But if you're with me—it will
+mean death. You must go back and——</q></p>
 
 <p><q>No,</q> she interrupted, not now with passion, but
 with the calm, subdued tone of unshaken resolve.
-<q>I'm not afraid to die--with you, Sahib. What
+<q>I'm not afraid to die—with you, Sahib. What
 have I to live for? You are my only friend.
 I've no love for any one but you.</q></p>
 
@@ -11975,7 +11976,7 @@ There was no fear, no doubt in their fathomless
 depths. Horsford's heart, and he did not check it,
 went out to hers. Yet his feeling was not that of
 love as love is understood in this world. It was
-something purer--something higher--some would
+something purer—something higher—some would
 call it the co-mingling of souls, and so it may have
 been; but what both were conscious of was
 sacrifice for each other, and in this intensity of
@@ -11999,7 +12000,7 @@ help me. Tell me what was in your mind when
 you burst into my prison. You had some plan,
 eh?</q></p>
 
-<p><q>Yes--yes. I know of a secret passage from
+<p><q>Yes—yes. I know of a secret passage from
 the Palace to an underground place outside.</q></p>
 
 <p><q>That sounds well. And have you found a
@@ -12011,12 +12012,12 @@ perately in earnest, and so indeed was he, but he
 had his own way of showing it.</p>
 
 <p><q>No,</q> she cried, <q>there's no other way but by
-the bridge. Oh, Sahib--Sahib, you don't believe
+the bridge. Oh, Sahib—Sahib, you don't believe
 me. You're laughing at me. It is not kind.</q></p>
 
 <p><q>Don't trouble, little one. We'll go to that
 hiding-place of yours, and we'll cross the bridge
---if we get there alive,</q> he added to himself.</p>
+—if we get there alive,</q> he added to himself.</p>
 
 <p>He chose the nearest exit, an opening which led
 to a circular staircase exactly like that which he
@@ -12048,7 +12049,7 @@ easily relieved of their ill-gotten gains.</p>
 doorway overlooking the bridge and talked in low
 tones. Nara had much to tell. She had escaped
 from the hospital exactly as Nurse Barton had
-supposed--dropping from the window-sill to the
+supposed—dropping from the window-sill to the
 soft sand beneath. Then she hastened to the shop
 in the bazaar where she had overheard the con-
 versation between Sundra Bai and Muza Khan,
@@ -12076,17 +12077,17 @@ stayed with <abbr>Dr.</abbr> Pentreath. I asked him to tell
 you.</q></p>
 
 <p><q>I know, but God willed it should be otherwise.
-He was right--was it not so? Sundra Bai has
+He was right—was it not so? Sundra Bai has
 no dancing-girls now,</q> she went on rapidly, <q>she
 is in Zeenut Mehal's service. She knows all about
-cosmetics, painting the face, washes, perfumes--
+cosmetics, painting the face, washes, perfumes—
 poisons. Zeenut Mehal and the ladies of the
 <foreign xml:lang="hi">zenana</foreign> are always making her handsome presents.
 She has rich jewels; and she put them on just
 before I ran to your prison. She told me she
 meant to jeer at you with all her grandeur while
 you were lying helpless. Everything was ready
-for the torture--the wretches with knives, men
+for the torture—the wretches with knives, men
 with the burning charcoal and the irons. Oh,
 I can't bear to think of it! But God would not
 permit such wickedness. When Sundra Bai was
@@ -12122,12 +12123,12 @@ the staircase are really doors. I found that out
 when I was watching Sundra Bai. I saw her
 slide one of the panels back and disappear. That
 made me try the next. I found my way to the
-hiding-place I told you of, and----</q></p>
+hiding-place I told you of, and——</q></p>
 
 <p>The girl stopped, recoiled, and pointed her
 finger.</p>
 
-<p><q>Look--look--there--on the ground!</q> she
+<p><q>Look—look—there—on the ground!</q> she
 gasped.</p>
 
 <p>The feeble light of the stars was sufficient to
@@ -12138,7 +12139,7 @@ stretched out at right angles to the body. Dark
 patches of moisture near the head, the extremities
 of the arms, the feet, were of sinister significance.
 One glance at the unwieldy figure, at the face,
-was enough. It was Sundra Bai--dead, murdered
+was enough. It was Sundra Bai—dead, murdered
 for the sake of her jewels! The miscreants could
 not wait to drag her gold bangles over her hands
 and feet, and the rings from her fingers and toes;
@@ -12183,8 +12184,8 @@ ground, broke upon his ear.</p>
 had been visited by looters, who, out of mere
 wantonness, had smashed what was not portable
 <pb n="315"/>
-or not worth stealing. Through the windows--
-small openings near the ceiling--came a red glare,
+or not worth stealing. Through the windows—
+small openings near the ceiling—came a red glare,
 and now and again clouds of suffocating, nauseous
 smoke. Incendiaries were at work outside.</p>
 
@@ -12201,7 +12202,7 @@ mob.</p>
 massacre of that horrible first day. It has been
 described oftentimes. Horsford feared the worst
 but he could not realise the horror. Two things,
-however, were very clear to him--firstly, the city
+however, were very clear to him—firstly, the city
 was in the hands of the mutineers, and secondly,
 the little British force in the cantonments was
 helpless. To regain Delhi meant the employment
@@ -12209,7 +12210,7 @@ of a properly equipped army. And there were
 so few British troops in India at that moment,
 alas!</p>
 
-<p>Their own fate--his and Nara's--what would
+<p>Their own fate—his and Nara's—what would
 that be? A house which had been looted no
 longer presented temptation, and they might stay
 there and be safe, but to what end? Starvation
@@ -12275,7 +12276,7 @@ would be let loose, with their brutal appetites
 whetted for more pillage and blood. But danger
 might come from another source. The news of
 the mutiny and of the seizure of Delhi had spread
-far and wide; swarms of budmash from the
+far and wide; swarms of <foreign xml:lang="hi" rend="roman">budmash</foreign> from the
 surrounding villages had set out to share in the
 spoil and these had been joined by later mutineers
 from Meerut.</p>
