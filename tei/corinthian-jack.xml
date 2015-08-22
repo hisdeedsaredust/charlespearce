@@ -24,7 +24,7 @@
 <body>
 <div n="1" type="chapter">
 <pb n="7"/>
-<head type="num">Chapter I</head>
+<head type="num">Chapter <num type="cardinal" value="1">I</num></head>
 <head type="main">A <soCalled>Mill</soCalled> in the Moonlight</head>
 
 <p>It was absurd. So Squire Simon Halstead might have
@@ -724,7 +724,7 @@ good as a mile!</said></p>
 
 
 <div n="2" type="chapter">
-<head type="num">Chapter II</head>
+<head type="num">Chapter <num type="cardinal" value="2">II</num></head>
 <head type="main">Vanished!</head>
 
 <p>Another shot came—wider of the mark than the first.
@@ -1272,7 +1272,7 @@ proceeded on foot to <q>Royal Crescent.</q></p>
 
 <div n="3" type="chapter">
 <pb n="32"/>
-<head type="num">Chapter III</head>
+<head type="num">Chapter <num type="cardinal" value="3">III</num></head>
 <head type="main">Two Men and a Woman</head>
 
 <p><said>Her ladyship's out, sir. She's gone to the Masquerade
@@ -1669,7 +1669,7 @@ bed than he was fast asleep.</p>
 
 <div n="4" type="chapter">
 <pb n="40"/>
-<head type="num">Chapter IV</head>
+<head type="num">Chapter <num type="cardinal" value="4">IV</num></head>
 <head type="main">Blue Eyes or Dark Eyes</head>
 
 <p>Meanwhile Sir Phineas was <q>making the running,</q> to
@@ -2137,7 +2137,7 @@ Squire Jack Ralstone.</said></p>
 
 <div n="5" type="chapter">
 <pb n="49"/>
-<head type="num">Chapter V</head>
+<head type="num">Chapter <num type="cardinal" value="5">V</num></head>
 <head type="main">Jack Kicks Over the Traces</head>
 
 <p>Young Squire Ralstone indulged in an extra hour or so
@@ -2590,7 +2590,7 @@ the journey to Andover.</p>
 
 
 <div n="6" type="chapter">
-<head type="num">Chapter VI</head>
+<head type="num">Chapter <num type="cardinal" value="6">VI</num></head>
 <head type="main"><q>What Have You Done with the Girl?</q></head>
 
 <p>The <q>George</q> at Andover was crammed from floor to
@@ -3247,7 +3247,7 @@ to enjoy themselves.</p>
 
 
 <div n="7" type="chapter">
-<head type="num">Chapter VII</head>
+<head type="num">Chapter <num type="cardinal" value="7">VII</num></head>
 <head type="main">How Tom Spring and Bill Neate Fought</head>
 
 <p>Up to the time when Tom entered the ring, Bill Neate
@@ -3856,7 +3856,7 @@ spin to Salisbury.</p>
 
 
 <div n="8" type="chapter">
-<head type="num">Chapter VIII</head>
+<head type="num">Chapter <num type="cardinal" value="8">VIII</num></head>
 <head type="main">A Bombshell for Lady Barbara</head>
 
 <p><said>By gad, Barbara, I never saw you look handsomer.
@@ -4261,7 +4261,7 @@ towards the fire his daughter had vanished.</p>
 
 
 <div n="9" type="chapter">
-<head type="num">Chapter IX</head>
+<head type="num">Chapter <num type="cardinal" value="9">IX</num></head>
 <head type="main">An Infamous Plot</head>
 
 <p>An hour later a carriage stopped at the entrance of
@@ -4812,7 +4812,7 @@ bound hand and foot. Have your way.</said></p>
 
 <div n="10" type="chapter">
 <pb n="101"/>
-<head type="num">Chapter X</head>
+<head type="num">Chapter <num type="cardinal" value="10">X</num></head>
 <head type="main">A Gala Night at the Fives Court</head>
 
 <p><said>What's to be done, Walsham?</said></p>
@@ -5384,7 +5384,7 @@ the platform.</p>
 
 
 <div n="11" type="chapter">
-<head type="num">Chapter XI</head>
+<head type="num">Chapter <num type="cardinal" value="11">XI</num></head>
 <head type="main">A Fight not in the Programme</head>
 
 <p><said>It's Jack Thurtell,</said> whispered a man next Ralstone.
@@ -6006,7 +6006,7 @@ of the door of a house in King Street.</p>
 
 
 <div n="12" type="chapter">
-<head type="num">Chapter XII</head>
+<head type="num">Chapter <num type="cardinal" value="12">XII</num></head>
 <head type="main">Recognition!</head>
 
 <p><said>Hadn't we better send for a doctor?</said></p>
@@ -6418,7 +6418,7 @@ said no more, but fled.</p>
 
 
 <div n="13" type="chapter">
-<head type="num">Chapter XIII</head>
+<head type="num">Chapter <num type="cardinal" value="13">XIII</num></head>
 <head type="main">A Startling Letter</head>
 
 <p>Ralstone did not lose his senses. The faintness was
@@ -6806,7 +6806,7 @@ don't know how much I love you. Fondly,</q></p>
 
 <div n="14" type="chapter">
 <pb n="140"/>
-<head type="num">Chapter XIV</head>
+<head type="num">Chapter <num type="cardinal" value="14">XIV</num></head>
 <head type="main">What the Spy Reported</head>
 
 <p>Sir Phineas Tenbury, with the assistance of his valet,
@@ -7385,7 +7385,7 @@ woman exercise over a man in an hour and a half?</p>
 
 <div n="15" type="chapter">
 <pb n="151"/>
-<head type="num">Chapter XV</head>
+<head type="num">Chapter <num type="cardinal" value="15">XV</num></head>
 <head type="main">A Woman's Wiles</head>
 
 <p>Lady Barbara's letter, couched in such appealing terms,
@@ -7989,7 +7989,7 @@ crumpled the note and then tore it into fragments.
 </div>
 
 <div n="16" type="chapter">
-<head type="num">Chapter XVI</head>
+<head type="num">Chapter <num type="cardinal" value="16">XVI</num></head>
 <head type="main">Vicary gets his Deserts</head>
 
 <p>Ralstone reached the <q>Tavistock</q> quite done up. The
@@ -8443,7 +8443,7 @@ He tapped the man lightly on the arm.</p>
 </div>
 
 <div n="17" type="chapter">
-<head type="num">Chapter XVII</head>
+<head type="num">Chapter <num type="cardinal" value="17">XVII</num></head>
 <head type="main">Nyra</head>
 
 <p><said>My good fellow,</said> said Ralstone, <said>we've met before,
@@ -9047,7 +9047,7 @@ and again thank you.</said></p>
 
 
 <div n="18" type="chapter">
-<head type="num">Chapter XVIII</head>
+<head type="num">Chapter <num type="cardinal" value="18">XVIII</num></head>
 <head type="main">Stroke and Counter-Stroke</head>
 
 <p>Lady Barbara, boiling over with wrath, was at the
@@ -9370,7 +9370,7 @@ a task after his own heart.</p>
 
 <div n="19" type="chapter">
 <pb n="190"/>
-<head type="num">Chapter XIX</head>
+<head type="num">Chapter <num type="cardinal" value="19">XIX</num></head>
 <head type="main">The Tragedy of Lady Barbara</head>
 
 <p>Tenbury's anxiety was not removed. The success of
@@ -9825,7 +9825,7 @@ he strode away.</p>
 
 <div n="20" type="chapter">
 <pb n="199"/>
-<head type="num">Chapter XX</head>
+<head type="num">Chapter <num type="cardinal" value="20">XX</num></head>
 <head type="main">The Trysting-Place on the Bridge</head>
 
 <p><said>Who on earth would have supposed the fellow would
@@ -10269,7 +10269,7 @@ way.</said></p>
 
 
 <div n="21" type="chapter">
-<head type="num">Chapter XXI</head>
+<head type="num">Chapter <num type="cardinal" value="21">XXI</num></head>
 <head type="main">The Call of the Blood</head>
 
 <p>There was certainly no sense in allowing themselves to
@@ -10622,7 +10622,7 @@ his parting words.</p>
 </div>
 
 <div n="22" type="chapter">
-<head type="num">Chapter XXII</head>
+<head type="num">Chapter <num type="cardinal" value="22">XXII</num></head>
 <head type="main">Jack Ralstone Follows His Luck</head>
 
 <p>An hour or so after leaving King Street, Ralstone was
@@ -11271,7 +11271,7 @@ away, Jack departed much comforted.</p>
 </div>
 
 <div n="23" type="chapter">
-<head type="num">Chapter XXIII</head>
+<head type="num">Chapter <num type="cardinal" value="23">XXIII</num></head>
 <head type="main">East Against West</head>
 
 <p>The <q>Blue Anchor,</q> Oyster-shell Alley, Wapping, was
@@ -11761,7 +11761,7 @@ old hag was Sally Winch.</p>
 
 
 <div n="24" type="chapter">
-<head type="num">Chapter XXIV</head>
+<head type="num">Chapter <num type="cardinal" value="24">XXIV</num></head>
 <head type="main">The Avenger—Death</head>
 
 <p>Ralstone had not seen Nyra for four evenings. He
@@ -12232,7 +12232,7 @@ returned to his bed he slept like a top.</p>
 
 
 <div n="25" type="chapter">
-<head type="num">Chapter XXV</head>
+<head type="num">Chapter <num type="cardinal" value="25">XXV</num></head>
 <head type="main">Nemesis!</head>
 
 <p>It was clear to Ralstone that he would have to stay
