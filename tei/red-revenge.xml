@@ -3,7 +3,7 @@
   <fileDesc>
     <titleStmt>
       <title>Red Revenge</title>
-      <author>Charles E. Pearce</author>
+      <author><persName><forename sort="2">Charles</forename> <forename full="init" sort="3">E.</forename> <surname sort="1">Pearce</surname></persName></author>
       <respStmt>
         <resp>Transcribed by</resp>
         <name>Paul Flo Williams</name>
@@ -11,6 +11,7 @@
     </titleStmt>
     <publicationStmt>
       <publisher>The Charles Pearce Project</publisher>
+      <date>2015</date>
       <availability>
         <p>Charles Pearce died in 1924, making his works out of copyright in the UK as of 1995.</p>
       </availability>
@@ -19,6 +20,13 @@
       <bibl>First published by Stanley Paul &amp; Co., Ltd. in 1911. This text has come from the edition published in Toronto by the Copp, Clark Co. Ltd., in 1912.</bibl>
     </sourceDesc>
   </fileDesc>
+  <profileDesc>
+    <textClass>
+      <keywords scheme="http://id.loc.gov/authorities/subjects.html">
+        <term>Kānpur (India) -- History -- Siege, 1857 -- Fiction</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
 </teiHeader>
 <text xml:lang="en-GB">
 <body>

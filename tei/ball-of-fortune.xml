@@ -3881,7 +3881,7 @@ over he bought a file, a chisel, and a piece of iron
 about a foot in length and sharpened at one end.
 This tool is known as a cold chisel, and is made
 of a tough iron and very strong.</p>
-<pn n="133"/>
+<pb n="133"/>
 <fw>A Queer Lodger.</fw>
 <p>With these purchases he hastened home. It
 was then about six o'clock, and saying to himself
@@ -6908,7 +6908,7 @@ his breast pocket, <abbr>Mr.</abbr> Grigsby produced from an
 envelope a scrap of paper, which he read out as
 follows:—</p>
 <q>
-<p>San Francisco, August 3rd.</p>
+<p rend="letdate">San Francisco, August 3rd.</p>
 <p>This day John Harbledon &amp; Co., goldsmiths of
 this city, have delivered to me the golden cannon-
 ball which I instructed them to make out of the
@@ -6921,7 +6921,7 @@ who know I have been lucky at the diggings. I
 know Ah Ling Foo and Hosea Lampard to be
 unscrupulous fellows, and I adopt this mode of
 deceiving them.</p>
-<p>Samuel Somerset,
+<p rend="letsig"><hi rend="sc">Samuel Somerset,</hi><lb/>
 (Master) Ship <name rend="i" type="vessel">Good Fortune</name>.</p>
 </q>
 <p><said>And we found, <abbr>Mr.</abbr> Inspector, as what Captain
